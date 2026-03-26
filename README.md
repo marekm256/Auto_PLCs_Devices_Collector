@@ -3,11 +3,11 @@
 Minimal guide for Siemens device inventory pipeline.
 
 ## Data Pipeline
-1. `ProjectsScannerCopier` scans archive folders and copies PLC projects into structured collection folders.
-2. `Tia15-21_DevicesExporter` exports device JSONs from Siemens TIA projects (`ap15`..`ap21`).
+1. `ProjectsScannerCopier` scans input folder and copies PLC projects into structured collection folders.
+2. `Tia15-21_DevicesExporter` exports found devices in JSONs from Siemens TIA projects (`ap15`..`ap21`).
 3. `Step7_ConfigsExporter` (Python, GUI automation) opens STEP7 projects and exports `.cfg` files.
-4. `Step7_DevicesExporter` parses STEP7 `.cfg` files and exports device JSONs.
-5. `Devices_Processor` merges gathered JSONs into formatted Excel files and enriches data with Siemens metadata (image, lifecycle, description).
+4. `Step7_DevicesExporter` parses STEP7 `.cfg` files and exports devices in JSONs.
+5. `Devices_Processor` from gathered JSONs creates formatted Excel files and enriches data with Siemens metadata (image, lifecycle, description).
 
 Current scope:
 - Siemens projects and Siemens devices.
