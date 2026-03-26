@@ -29,6 +29,11 @@ Current scope:
   - any path containing `$`
   - folder name `Source Codes Archive` (default)
   - any custom folder names passed in optional ignore argument
+- Project folder naming (short logic):
+  - uses source folder path segments and looks for machine code format: `^[A-Z0-9]{7}$`
+  - first match in segment `4`, then `5`
+  - if no match: uses first non-empty from segment `6`, `5`, `4`, source folder name, else `UNKNOWN`
+  - if same name already exists in target: adds version suffix (`_v2`, `_v3`, ...)
 - Output tree:
 ```text
 target_root/

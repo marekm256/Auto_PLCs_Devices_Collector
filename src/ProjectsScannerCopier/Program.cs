@@ -8,7 +8,7 @@ namespace ProjectsScannerCopier
 {
     internal static class Program
     {
-        private static readonly Regex MachineCodeRegex = new Regex("^[A-Z0-9]{7}$", RegexOptions.CultureInvariant);
+        private static readonly Regex MachineCodeRegex = new Regex("[A-Z0-9]{7}", RegexOptions.CultureInvariant);
 
         private static readonly (string Filter, string TypeName)[] ProjectTypes =
         {
@@ -234,7 +234,7 @@ namespace ProjectsScannerCopier
                 return seg5;
             }
 
-            return FirstNonEmpty(seg6, seg5, seg4, Path.GetFileName(sourceFolder), "UNKNOWN");
+            return seg6;
         }
 
         private static string GetSegment(string[] parts, int index)
