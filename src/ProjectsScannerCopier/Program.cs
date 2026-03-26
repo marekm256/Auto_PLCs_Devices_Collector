@@ -19,6 +19,7 @@ namespace ProjectsScannerCopier
             ("*.ap13", "tia13"),
             ("*.ap14", "tia14"),
             ("*.ap15", "tia15"),
+            ("*.ap15_1", "tia15_1"),
             ("*.ap16", "tia16"),
             ("*.ap17", "tia17"),
             ("*.ap18", "tia18"),

@@ -16,8 +16,44 @@ Current scope:
 ## Apps Overview
 
 ### ProjectsScannerCopier
-- Purpose: discover and copy project files from source archive into standardized folders.
-- Output: organized project folders for next pipeline steps.
+- Purpose: scan archive folders, detect PLC project types, and copy each matched project folder into a normalized structure.
+- Input:
+  - `source_root` (folder to scan recursively)
+  - `target_root` (where copied projects are saved)
+  - optional ignored folders: `"IgnoreA;IgnoreB"` (semicolon-separated)
+- Searches for project files:
+  - STEP7: `*.s7p`
+  - TIA: `*.ap10`, `*.ap11`, `*.ap12`, `*.ap13`, `*.ap14`, `*.ap15`, `*.ap15_1`, `*.ap16`, `*.ap17`, `*.ap18`, `*.ap19`, `*.ap20`
+  - Rockwell: `*.acd`
+- Excludes from search:
+  - any path containing `$`
+  - folder name `Source Codes Archive` (default)
+  - any custom folder names passed in optional ignore argument
+- Output tree:
+```text
+target_root/
++- step7/
+|  +- MACHINE01/
+|  +- MACHINE01_v2/
++- tia10/
++- tia11/
++- tia12/
++- tia13/
++- tia14/
++- tia15/
++- tia15_1/
++- tia16/
++- tia17/
++- tia18/
++- tia19/
++- tia20/
++- rockwell/
+```
+- Simple example:
+```powershell
+ProjectsScannerCopier.exe "D:\Archive\Projects" "D:\Collected\collected_projects" "Backup;Old"
+```
+Scans `D:\Archive\Projects`, skips folders containing `Backup`, `Old`, `Source Codes Archive`, and copies found project folders into typed subfolders under `D:\Collected\collected_projects`.
 
 ### Tia15-21_DevicesExporter
 - Purpose: adapter for TIA versions 15..21.
@@ -41,3 +77,4 @@ Current scope:
   - formatted Excel files (`collected_excels`)
   - downloaded image cache (`downloaded_images`)
 - Metadata source: Siemens product pages (Lifecycle, Description, product image).
+
