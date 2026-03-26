@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <AssemblyName>Tia15-21_DevicesExporter</AssemblyName>
+    <RootNamespace>Tia15_21_DevicesExporter</RootNamespace>
+    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>x64</Platforms>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <OutputPath>bin\x64\</OutputPath>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\bin\x64\net472\Step7_DevicesExporter.exe.config
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\bin\x64\net472\Step7_DevicesExporter.exe
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\bin\x64\net472\Step7_DevicesExporter.pdb
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.AssemblyInfoInputs.cache
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.AssemblyInfo.cs
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.sourcelink.json
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.exe
+C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\obj\Release\net472\Step7_DevicesExporter.pdb

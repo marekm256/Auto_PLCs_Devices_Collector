@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Step7_DevicesExporter
+build_property.ProjectDir = C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\src\Step7_DevicesExporter\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
