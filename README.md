@@ -4,7 +4,7 @@ Minimal guide for Siemens device inventory pipeline.
 
 ## Data Pipeline
 1. `ProjectsScannerCopier` scans input folder and copies PLC projects into structured collection folders.
-2. `Tia15-21_DevicesExporter` exports found devices in JSONs from Siemens TIA projects (`ap15`..`ap21`).
+2. `Tia15-21_DevicesExporter` app finds devices and store them in JSONs from Siemens TIA projects (`ap15`..`ap21`).
 3. `Step7_ConfigsExporter` (Python, GUI automation) opens STEP7 projects and exports `.cfg` files.
 4. `Step7_DevicesExporter` parses STEP7 `.cfg` files and exports devices in JSONs.
 5. `Devices_Processor` from gathered JSONs creates formatted Excel files and enriches data with Siemens metadata (image, lifecycle, description).
@@ -56,14 +56,36 @@ target_root/
 ```
 - Simple example:
 ```powershell
-ProjectsScannerCopier.exe "D:\Archive\Projects" "D:\Collected\collected_projects" "Backup;Old"
+ProjectsScannerCopier.exe "D:\Archive\Projects" "D:\collected_projects" "Backup;Old"
 ```
-Scans `D:\Archive\Projects`, skips folders containing `Backup`, `Old`, `Source Codes Archive`, and copies found project folders into typed subfolders under `D:\Collected\collected_projects`.
+Scans `D:\Archive\Projects`, skips folders containing `Backup`, `Old`, `Source Codes Archive`, and copies found project folders into typed subfolders under `D:\collected_projects`.
 
 ### Tia15-21_DevicesExporter
-- Purpose: adapter for TIA versions 15..21.
-- Input: collected TIA project folders.
-- Output: JSON files with `Device`, `DeviceItem`, `OrderNumber`, `Firmware`.
+- Purpose: export device inventory from TIA Portal projects (`V15`..`V21`) via TIA Openness API.
+- Input:
+  - command args: `-tia15 | -tia15_1 | -tia16 | -tia17 | -tia18 | -tia19 | -tia20 | -tia21` + `projects_root`
+  - expected folder: `projects_root/<version>/`
+  - expected project file in each project folder: `*.apXX` (matching selected version)
+- How it works:
+  - opens TIA Portal through Openness API
+  - scans only first-level folders in `projects_root/<version>/` (ignores `processed`)
+  - from each folder uses first matching `*.apXX` file
+  - exports JSON rows with: `Device`, `DeviceItem`, `OrderNumber`, `Firmware`
+  - after successful export, moves project folder to `projects_root/<version>/processed/`
+- Output:
+    - `<projects_root>/collected_components/<version>/<projectFolder>-<projectFile>.json`
+- Important runtime notes:
+  - selected `-tiaXX` requires matching installed TIA Portal version with TIA Openness (`Siemens.Engineering.dll` / PublicAPI)
+  - when Openness access window appears, user must click `Yes`
+  - password-locked projects are not supported currently
+  - if a required TIA package is missing for one project, that project is skipped (fails, next project continues)
+  - if one project causes broader open-session issues, following projects may fail too; remove problematic project from working folder and run again
+  - Openness API manual: https://support.industry.siemens.com/cs/attachments/109798533/TIAPortalOpennessenUS_en-US.pdf
+- Simple example:
+```powershell
+Tia15-21_DevicesExporter.exe -tia17 "D:\collected_projects"
+```
+Reads projects from `D:\collected_projects\tia17\` and writes JSON files to `D:\collected_components\tia17\`.
 
 ### Step7_ConfigsExporter (Python)
 - Purpose: automated GUI export of STEP7 hardware configs.
@@ -82,4 +104,3 @@ Scans `D:\Archive\Projects`, skips folders containing `Backup`, `Old`, `Source C
   - formatted Excel files (`collected_excels`)
   - downloaded image cache (`downloaded_images`)
 - Metadata source: Siemens product pages (Lifecycle, Description, product image).
-
