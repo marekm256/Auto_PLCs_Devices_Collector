@@ -1,0 +1,656 @@
+[
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "2\/4 AI RTD ST; 4ch",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DI DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DI DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DI DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DI DC24V_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "8DO DC24V\/0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "bsa11",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "bsa-11-12-13",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "2\/4 AI RTD ST; 4ch",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DI DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DI DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DI DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DI DC24V_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "8DO DC24V\/0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "bsa14",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "bsa-14-15-16",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "2\/4 AI RTD ST; 4ch",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DI DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DI DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DI DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DI DC24V_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "8DO DC24V\/0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "bsa05",
+    "Firmware": "6.1",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "bsa-5-6-7",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "2\/4 AI RTD ST; 4ch",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "8DI DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "8DI DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "8DI DC24V_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "bsa08",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "bsa-8-9-10",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO DC24V\/0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "bsa08-1",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ET 200S station_2",
+    "DeviceItem": "2AI x I 4WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "ET 200S station_2",
+    "DeviceItem": "bsa05-1",
+    "Firmware": "6.1",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "ET 200S station_2",
+    "DeviceItem": "PM-E 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 522-1BH00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "PM 70W 120\/230VAC",
+    "Firmware": "",
+    "OrderNumber": "6EP1332-4BA00"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "sila01az16",
+    "Firmware": "1.7",
+    "OrderNumber": "6ES7 516-3AN00-0AB0"
+  },
+  {
+    "Device": "sila1az16-mtp1900",
+    "DeviceItem": "sila1az16-mtp1900",
+    "Firmware": "19.0.0.0",
+    "OrderNumber": "6AV2 128-3UB06-0AXx"
+  },
+  {
+    "Device": "sila-ktp600",
+    "DeviceItem": "HMI",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AB11-3AX0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "2\/4 AI RTD ST; 4ch",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "2AI I 4WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "2AI I 4WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "2AI x I 4WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "2AI x I 4WIRE ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "4AI I 2WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "4AI I 2WIRE ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_10",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_6",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_7",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_8",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DI DC24V_9",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DO DC24V\/0,5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DO DC24V\/0,5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DO DC24V\/0,5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "8DO DC24V\/0,5A_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "PM-E DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "sila01",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "sila08m5",
+    "Firmware": "4.5",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_10",
+    "DeviceItem": "sila04m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "SINAMICS G_11",
+    "DeviceItem": "sila05m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_12",
+    "DeviceItem": "sila08m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_13",
+    "DeviceItem": "sila09m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_14",
+    "DeviceItem": "sila10m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_15",
+    "DeviceItem": "sila11m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_16",
+    "DeviceItem": "sila12m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_17",
+    "DeviceItem": "sila13m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_18",
+    "DeviceItem": "sila14m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_19",
+    "DeviceItem": "sila15m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "sila05m5",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_20",
+    "DeviceItem": "sila16m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_21",
+    "DeviceItem": "sila07m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_22",
+    "DeviceItem": "sila06m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_23",
+    "DeviceItem": "sila09m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_24",
+    "DeviceItem": "sila10m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_25",
+    "DeviceItem": "sila11m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_26",
+    "DeviceItem": "sila12m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_27",
+    "DeviceItem": "sila13m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_28",
+    "DeviceItem": "sila14m5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "sila01m2",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "sila02m2",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "sila15m5",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_6",
+    "DeviceItem": "sila16m5",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_7",
+    "DeviceItem": "sila01m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "SINAMICS G_8",
+    "DeviceItem": "sila02m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "SINAMICS G_9",
+    "DeviceItem": "sila03m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  }
+]

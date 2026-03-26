@@ -1,0 +1,329 @@
+PS C:\Users\UOR3455\Auto_PLCs_Devices_Collector> .\src\ProjectsScannerCopier\bin\x64\net472\ProjectsScannerCopier.exe "C:\vdClientArchive" "C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects"
+Scanning projects in: C:\vdClientArchive
+----------------------------------------
+
+Scanning type: *.s7p
+[1/81] Copying: C:\vdClientArchive\.Utility\.Floor 01\UT02P21 MaR2\01 Source code\UT02P21 PLC\UT02P21_Chlad_200713 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\UT02P21 MaR2
+[2/81] Copying: C:\vdClientArchive\.Utility\.Floor 00\UT07P80 COV02\01 Source code\UT07P80 PLC\UT07P80_cov_02 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\UT07P80 COV02
+[3/81] Copying: C:\vdClientArchive\.Utility\.Chladenie\Chladenie\01 Source code\Chlad PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\Chlad PLC
+[4/81] Copying: C:\vdClientArchive\.Utility\,Floor B\UT15P2B OST4\01 Source code\UT15P2B PLC\UT15P2B_OST4_141222 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\UT15P2B OST4
+[5/81] Copying: C:\vdClientArchive\.Utility\,Floor B\UT08P6B OST1\01 Source code\UT08P6B PLC\UT08P6B_JC_S7_200108 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\UT08P6B OST1
+[6/81] Copying: C:\vdClientArchive\.NAB\Draziaren\VK03P40 Gastropack skladacka a zatvaracka\01 Source code\VK03P40 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VK03P40 Gastropack skladacka a zatvaracka
+[7/81] Copying: C:\vdClientArchive\.NAB\Draziaren\VK01P40 Viking-Masek skladacka kartonov\01 Source code\VK01M40 SIMOTION\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VK01P40 Viking-Masek skladacka kartonov
+[8/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB09P24 Manex RM5 Dopravniky vystup bal.linka\01 Source code\CB09P24 PLC\185_RM5 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CB09P24 Manex RM5 Dopravniky vystup bal.linka
+[9/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB06P24 Centralny bezp.system dop.linky CM620\01 Source code\CB06P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CB06P24 Centralny bezp.system dop.linky CM620
+[10/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB05P24 Manex RM4 Navazovanie BULK\01 Source code\CB05P24 PLC\185_RM4 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CB05P24 Manex RM4 Navazovanie BULK
+[11/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY14P24 Temperirka TZ1000\01 Source code\CY14P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY14P24 Temperirka TZ1000
+[12/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY13P24 Temperirka Sollich TT1400\01 Source code\CY13P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY13P24 Temperirka Sollich TT1400
+[13/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY12P25 Temperirka Sollich TT3300\01 Source code\CY12P25 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY12P25 Temperirka Sollich TT3300
+[14/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY10P25 Temperirka Sollich TCN3000\01 Source code\CY10P25 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY10P25 Temperirka Sollich TCN3000
+[15/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY05P24 Nalievacka MLR4\01 Source code\CY05P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY05P24 Nalievacka MLR4
+[16/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY04P24 Nalievacka MLR3\01 Source code\CY04P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY04P24 Nalievacka MLR3
+[17/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY03P24 Nalievacka MLR2\01 Source code\CY03P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY03P24 Nalievacka MLR2
+[18/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY02P24 Cokoladove hosp. CM620\01 Source code\CY02P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY02P24 Cokoladove hosp. CM620
+[19/81] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY01P24 Form.linka CM620\01 Source code\CY01P24 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CY01P24 Form.linka CM620
+[20/81] Copying: C:\vdClientArchive\.Floor 03\VARNA\VA02P23 Vyroba fondanu\01 Source code\VA02P23 PLC\Fondan -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VA02P23 Vyroba fondanu
+[21/81] Copying: C:\vdClientArchive\.Floor 03\VARNA\VA01P23 Davkovanie tuku\01 Source code\VA01P23 PLC C7\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VA01P23 Davkovanie tuku
+[22/81] Copying: C:\vdClientArchive\.Floor 03\VARNA\VA01P23 Davkovanie tuku\01 Source code\VA01P23 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VA01P23 Davkovanie tuku_v2
+[23/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB01P23 Rotzinger Dop. pasy\01 Source code\FB01P23 PLC\Rotzin_4 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FB01P23 Rotzinger Dop. pasy
+[24/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL17P23 Cok.hosp. Lekos\01 Source code\FL17P23 PLC\CokHoLL -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL17P23 Cok.hosp. Lekos
+[25/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL16P23 Temperirka Sollich TT4700\01 Source code\FL16P23 PLC\Sollich TT4700 PLC -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL16P23 Temperirka Sollich TT4700
+[26/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL15P23 Temperirka Sollich TT2200\01 Source code\FL15P23 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL15P23 Temperirka Sollich TT2200
+[27/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL14P23 Temperirka Sollich TT800 Airo\01 Source code\FL14P23 PLC\TCA-9697 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL14P23 Temperirka Sollich TT800 Airo
+[28/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL10P23 Nalievacka Winkler\01 Source code\FL10P23 PLC\W452813 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL10P23 Nalievacka Winkler
+[29/81] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL01P23 Formovacia linka FOLE620\01 Source code\FL01P23 PLC\Simatic S7\Fole620_TP_12032024 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\FL01P23 Formovacia linka FOLE620
+[30/81] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA01P23 Ishida Navazovanie CAMA\01 Source code\CA01P23 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CA01P23 Ishida Navazovanie CAMA
+[31/81] Copying: C:\vdClientArchive\.Floor 02\SMP MIXER\SM01P22 SMP Mixer\01 Source code\SM01P22 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\SM01P22 SMP Mixer
+[32/81] Copying: C:\vdClientArchive\.Floor 02\SiG, SAPAL, ROWEMA\SG02P22 Balicka SAPAL2 DPN6\01 Source code\SG02P22 PLC\SapalSer -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\SG02P22 Balicka SAPAL2 DPN6
+[33/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB07P22 Zatvaracka BOMA c.3\01 Source code\JB07P22 PLC\JB07P22 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JB07P22 Zatvaracka BOMA c.3
+[34/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB06P22 Zatvaracka BOMA c.2\01 Source code\JB06P22 PLC\Kart5OG -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JB06P22 Zatvaracka BOMA c.2
+[35/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB05P22 Zatvaracka BOMA c.1\01 Source code\JB05P22 PLC\Kart5OG -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JB05P22 Zatvaracka BOMA c.1
+[36/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB01P22 Dopravne pasy k balickam\01 Source code\JB01P22 PLC\04-0112-Naps -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JB01P22 Dopravne pasy k balickam
+[37/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE05P22 Temperirka AASTED AMC750\01 Source code\JE05P22 PLC\3660_03_0001_AMC750_190219 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JE05P22 Temperirka AASTED AMC750
+[38/81] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE01P22 Form.linka Jensen\01 Source code\JE01P22 PLC\Jensen -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\JE01P22 Form.linka Jensen
+[39/81] Copying: C:\vdClientArchive\.Floor 02\HUTT\Packing\HB01P22 Dopravne cesty HUTT\01 Source code\HB01P22 PLC\Hutt_dop -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\HB01P22 Dopravne cesty HUTT
+[40/81] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU03P22 Sollich TT1100 Tempering machine\01 Source code\HU03P22 PLC\TT_27287 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\HU03P22 Sollich TT1100 Tempering machine
+[41/81] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU02P22 Sollich B5 Macaci stroj\01 Source code\HU02P22 PLC\B5_27287 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\HU02P22 Sollich B5 Macaci stroj
+[42/81] Copying: C:\vdClientArchive\.Floor 02\CM275\Forming\CS02P22 Vkladac podloziek\01 Source code\CS02P22 PLC\Vkladac Podloziek -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CS02P22 Vkladac podloziek
+[43/81] Copying: C:\vdClientArchive\.Floor 02\CM275\Forming\CS01P22 Form.linka CM275\01 Source code\CS01P22 PLC\CM275_Mig_14 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\CS01P22 Form.linka CM275
+[44/81] Copying: C:\vdClientArchive\.Floor 01\Umyvarka foriem\UM01P21 Umyvacka foriem\01 Source code\UM01P21 PLC\Umyvacka foriem -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\UM01P21 Umyvacka foriem
+[45/81] Copying: C:\vdClientArchive\.Floor 01\P&P\Packing\PP08P21 Vkladac naplnenych blistrov RM10\01 Source code\PP08P21 PLC\213_RM10-30_023 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PP08P21 Vkladac naplnenych blistrov RM10
+[46/81] Copying: C:\vdClientArchive\.Floor 01\P&P\Packing\PP02P21 Dopravny system linky RM50\01 Source code\PP02P21 PLC\213_RM50_043 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PP02P21 Dopravny system linky RM50
+[47/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP06P21 CERMEX Kartonovac C211 -33447\01 Source code\NP06P21 PLC\33447 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP06P21 CERMEX Kartonovac C211 -33447
+[48/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP05P21 CERMEX Vejarovac BB35 -33446\01 Source code\NP05P21 PLC\33446 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP05P21 CERMEX Vejarovac BB35 -33446
+[49/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP04P21 Dienst Vkladac do kartonov\01 Source code\NP04P21 PLC\1542_K_4 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP04P21 Dienst Vkladac do kartonov
+[50/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP03P21 Novapac - Zvaracka\01 Source code\NP03P21 PLC\novapac -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP03P21 Novapac - Zvaracka
+[51/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP02P21 Concept - Zakladac blistrov a pres.hlava\01 Source code\NP02P21 PLC\Trsf_BB -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP02P21 Concept - Zakladac blistrov a pres.hlava
+[52/81] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP01P21 Solutech - Dopravny system linky\01 Source code\NP01P21 PLC\solutech -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\NP01P21 Solutech - Dopravny system linky
+[53/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB31P21 CERMEX Paletovac P943 -37956\01 Source code\LB31P21 PLC\P93 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB31P21 CERMEX Paletovac P943 -37956
+[54/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB30P21 CERMEX Zatvarac B25 -37955\01 Source code\LB30P21 PLC\37955_KR -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB30P21 CERMEX Zatvarac B25 -37955
+[55/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB29P21 CERMEX Balicka AN50 -37954\01 Source code\LB29P21 PLC\37954__1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB29P21 CERMEX Balicka AN50 -37954
+[56/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB28P21 CERMEX Skladacka F27 -37953\01 Source code\LB28P21 PLC\37953 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB28P21 CERMEX Skladacka F27 -37953
+[57/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB27P21 Olepovacka PAGO-B\01 Source code\LB27P21 PLC\PAGO_B_463_ComfV320_V2 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB27P21 Olepovacka PAGO-B
+[58/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB26P21 Olepovacka PAGO-A\01 Source code\LB26P21 PLC\PAGO_A_463_ComfV320_V2 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB26P21 Olepovacka PAGO-A
+[59/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB25P21 Dopravny system za Schubert\01 Source code\LB25F21 PLC\Cavemi_2 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LB25P21 Dopravny system za Schubert
+[60/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS11P21 Temperirka TC1000B\01 Source code\LS11P21 PLC\TTB-2705 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LS11P21 Temperirka TC1000B
+[61/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS10P21 Temperirka TC900D\01 Source code\LS10P21 PLC\TC-561_1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LS10P21 Temperirka TC900D
+[62/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS08P21 Temperirka TC1600D\01 Source code\LS08P21 PLC\TC-1600D -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LS08P21 Temperirka TC1600D
+[63/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS05P21 Zavieckovaci stroj ZS510\01 Source code\LS05P21 PLC\ZS510_24 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LS05P21 Zavieckovaci stroj ZS510
+[64/81] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS01P21 Form.linka Loesch\01 Source code\LS01P21 PLC\Loesch84 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\LS01P21 Form.linka Loesch
+[65/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH42P20 Pasta ZH011 ZH012 a obracac sudov\01 Source code\VH42P20 PLC\Pasta -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH42P20 Pasta ZH011 ZH012 a obracac sudov
+[66/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH40P20 Reimelt\01 Source code\VH40P20 PLC\12-494_6\20-8626 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH40P20 Reimelt
+[67/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH39P20 Conche 9\01 Source code\VH39P20 PLC\BraC9V57 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH39P20 Conche 9
+[68/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH38P20 Conche 8\01 Source code\VH38P20 PLC\BraC8V57 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH38P20 Conche 8
+[69/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH37P20 Conche 7\01 Source code\VH37P20 PLC\BraC7V56 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH37P20 Conche 7
+[70/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH36P20 Conche 6\01 Source code\VH36P20 PLC\BraC6P68 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH36P20 Conche 6
+[71/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH35P20 Conche 5\01 Source code\VH35P20 PLC\BSA_Con5 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH35P20 Conche 5
+[72/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH34P20 Conche 4\01 Source code\VH34P20 PLC\BSA_Con4 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH34P20 Conche 4
+[73/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH33P20 Conche 3\01 Source code\VH33P20 PLC\BSA_Con3 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH33P20 Conche 3
+[74/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH32P20 Conche 2\01 Source code\VH32P20 PLC\VH32P20_BSA1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH32P20 Conche 2
+[75/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH31P20 Conche 1\01 Source code\VH31P20 PLC\VH31P20_BSA1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH31P20 Conche 1
+[76/81] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH06P20 5-valec 4 L1\01 Source code\VH06P20 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\VH06P20 5-valec 4 L1
+[77/81] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR08P12 Prazice susice drvicky\01 Source code\PR08P12 PLC\Simatic S7 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PR08P12 Prazice susice drvicky
+[78/81] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR07P12 Debakterizator\01 Source code\PR07P12 PLC\PR07P12_Debakter -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PR07P12 Debakterizator
+[79/81] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR05P10 Petzomat\01 Source code\PR05P10 PLC\PR05P10_Petzomat -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PR05P10 Petzomat
+[80/81] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR02P10 Prijem a skladovanie bobov\01 Source code\PR02P10 PLC\PR02P10_Sklad -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\PR02P10 Prijem a skladovanie bobov
+[81/81] Copying: C:\vdClientArchive\,Floor B\Mass Storing\SI02P7B Sila 17-19\01 Source code\SI02P7B PLC\BraR1V55 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\step7\SI02P7B Sila 17-19
+TOTAL COPIED: 81
+
+Scanning type: *.ap10
+Nothing found.
+
+Scanning type: *.ap11
+[1/1] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL18P23 Chladenie linky Lekos\01 Source code\FL18P23 PLC\Chladenie_linky_LEKOS_2020_05_24 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia11\FL18P23 Chladenie linky Lekos
+TOTAL COPIED: 1
+
+Scanning type: *.ap12
+[1/4] Copying: C:\vdClientArchive\.Utility\,Floor B\UT06P2B MaR4 Modbus\01 Source code\UT06P2B PLC\UT06P2B_modbus_MAR4_V12_SP1_190528 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia12\UT06P2B MaR4 Modbus
+[2/4] Copying: C:\vdClientArchive\.Utility\,Floor B\UT04P2B MaR4\01 Source code\UT04P2B PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia12\UT04P2B MaR4
+[3/4] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU08P22 Mixer PGPR\01 Source code\HU08P22 PLC\Mixer PGPR TIA v12 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia12\HU08P22 Mixer PGPR
+[4/4] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU06P22 Cerpanie do Hoyera\01 Source code\HU06P22 PLC\Hoyer_Hutt -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia12\HU06P22 Cerpanie do Hoyera
+TOTAL COPIED: 4
+
+Scanning type: *.ap13
+[1/16] Copying: C:\vdClientArchive\.Utility\.Floor 04\UT17P24 OST CM620\01 Source code\UT17P24 PLC\UT17P24_OST_CM620_160701 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\UT17P24 OST CM620
+[2/16] Copying: C:\vdClientArchive\.Utility\.Floor 01\UT14P31 Modbus SMS\01 Source code\UT14P31 PLC\UT14P31_modbus_sms_tia13_180522 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\UT14P31 Modbus SMS
+[3/16] Copying: C:\vdClientArchive\.Utility\,Floor B\UT16P2B OST5\01 Source code\UT16P2B PLC\UT16P2B_OST5_160621 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\UT16P2B OST5
+[4/16] Copying: C:\vdClientArchive\.NAB\Draziaren\VK02P40 Ishida navazovanie\01 Source code\VK02P40 PLC SVAM\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VK02P40 Ishida navazovanie
+[5/16] Copying: C:\vdClientArchive\.NAB\Draziaren\VK01P40 Viking-Masek skladacka kartonov\01 Source code\VK01M40 SIMOTION\Simatic S7\hmi\Mondelez -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VK01P40 Viking-Masek skladacka kartonov
+[6/16] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY03P24 Nalievacka MLR2\01 Source code\CY03H24 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\CY03P24 Nalievacka MLR2
+[7/16] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB07P22 Zatvaracka BOMA c.3\01 Source code\JB07H22 HMI\Kart5OG-Bediengeraet_HMI -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\JB07P22 Zatvaracka BOMA c.3
+[8/16] Copying: C:\vdClientArchive\.Floor 02\Jensen\Packing\JB05P22 Zatvaracka BOMA c.1\01 Source code\JB05H22 HMI\Kart5OG-Bediengeraet_HMI -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\JB05P22 Zatvaracka BOMA c.1
+[9/16] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU08P22 Mixer PGPR\01 Source code\HU08P22 PLC\Mixer PGPR TIA v12_V13_SP1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\HU08P22 Mixer PGPR
+[10/16] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS08P21 Temperirka TC1600D\01 Source code\LS08H21 HMI\Sollich_TC1600D_HMI -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\LS08P21 Temperirka TC1600D
+[11/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH35P20 Conche 5\01 Source code\VH35H20 HMI\HmiCo5 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH35P20 Conche 5
+[12/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH34P20 Conche 4\01 Source code\VH34H20 HMI\HmiCo4 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH34P20 Conche 4
+[13/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH33P20 Conche 3\01 Source code\VH33H20 HMI\VH33H20_HmiCo3 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH33P20 Conche 3
+[14/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH25P20 ZH014\01 Source code\VH25P20 PLC\VH25P20_ZH014_V13_SP1_161003 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH25P20 ZH014
+[15/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH23P20 ZH012\01 Source code\VH23P20 PLC\VH23P20_ZH012_V13_SP1_161003 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH23P20 ZH012
+[16/16] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH22P20 ZH011\01 Source code\VH22P20 PLC\VH22P20_ZH011 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia13\VH22P20 ZH011
+TOTAL COPIED: 16
+
+Scanning type: *.ap14
+[1/11] Copying: C:\vdClientArchive\.NAB\Draziaren\VK04P40 EPRIN olepovacka\01 Source code\VK04P40 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\VK04P40 EPRIN olepovacka
+[2/11] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\Multipack\01 Source code\PLC Siemens\OmoriLenzeMondelezRB -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\01 Source code
+[3/11] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL31P23 Temperirka Sollich TT3100\01 Source code\FL31P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\FL31P23 Temperirka Sollich TT3100
+[4/11] Copying: C:\vdClientArchive\.Floor 02\SMP MIXER\SM02P22 SMP Cerpanie\01 Source code\SM02H22 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\SM02P22 SMP Cerpanie
+[5/11] Copying: C:\vdClientArchive\.Floor 02\SMP MIXER\SM01P22 SMP Mixer\01 Source code\SM01H22 HMI\SMP_MIXER_WINCC_V14 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\SM01P22 SMP Mixer
+[6/11] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE03P22 Nalievacka WDS\01 Source code\JE03P22 PLC\W662179_TIAV14SP1_V06_2018-07-23 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\JE03P22 Nalievacka WDS
+[7/11] Copying: C:\vdClientArchive\.Floor 01\Loesch\Packing\LB25P21 Dopravny system za Schubert\01 Source code\LB25H21 HMI\Afficheur_ligne_850_181220 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\LB25P21 Dopravny system za Schubert
+[8/11] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS24P21 Dop.system protiforiem DSP494.18\01 Source code\LS24P21 PLC\DSP494.18 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\LS24P21 Dop.system protiforiem DSP494.18
+[9/11] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS13P21 Chladenie Loesch\01 Source code\LS13P21 PLC\CHLAD_LOESCH_201021 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\LS13P21 Chladenie Loesch
+[10/11] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS07P21 Vyklepavac VS510.18_LEKOS\01 Source code\LS07P21 PLC\VS510.18 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\LS07P21 Vyklepavac VS510.18_LEKOS
+[11/11] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH01P20 2-valec L1\01 Source code\VH01P20 PLC\Dvoj_Valec_L1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia14\VH01P20 2-valec L1
+TOTAL COPIED: 11
+
+Scanning type: *.ap15
+[1/1] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL12P23 Temperirka AASTED AMC1500\01 Source code\FL12P23 PLC\5840_03_0001_AMC_STD_V3_955_V2_01 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15\FL12P23 Temperirka AASTED AMC1500
+TOTAL COPIED: 1
+
+Scanning type: *.ap15_1
+[1/8] Copying: C:\vdClientArchive\.Utility\.Floor 01\UT13P31 Modbus E+H\01 Source code\UT13P31 PLC\UT13P31_mbEndressHauser_190528 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\UT13P31 Modbus E+H
+[2/8] Copying: C:\vdClientArchive\.NAB\Draziaren\VK03P40 Gastropack skladacka a zatvaracka\01 Source code\VK03H40 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\VK03P40 Gastropack skladacka a zatvaracka
+[3/8] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB18P23 Dop.linka navaz. za balickami\01 Source code\FB18P23 PLC\DoprNavaz -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\FB18P23 Dop.linka navaz. za balickami
+[4/8] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL28P23 Davkovanie dzemu\01 Source code\FL28P23 PLC\Jam_Dosing\2300807 - Mondelez1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\FL28P23 Davkovanie dzemu
+[5/8] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL27P23 Davkovanie aromy\01 Source code\FL27P23 PLC\Aroma_Dosing\2301828-Lekos -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\FL27P23 Davkovanie aromy
+[6/8] Copying: C:\vdClientArchive\.Floor 02\SMP MIXER\SM02P22 SMP Cerpanie\01 Source code\SM02P22 PLC\Nove_SMP_V15 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\SM02P22 SMP Cerpanie
+[7/8] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE06P22 Temperirka AASTED AMT250\01 Source code\JE06P22 PLC\Temperka_AMT250 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\JE06P22 Temperirka AASTED AMT250
+[8/8] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE01P22 Form.linka Jensen\01 Source code\JE01H22 HMI\Jensen -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia15_1\JE01P22 Form.linka Jensen
+TOTAL COPIED: 8
+
+Scanning type: *.ap16
+[1/29] Copying: C:\vdClientArchive\.Utility\.Floor 00\UT18P10 OST7\01 Source code\UT18P10 PLC\UT18P10_OST7_V12_SP1_151204 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\UT18P10 OST7
+[2/29] Copying: C:\vdClientArchive\.Utility\,Floor B\UT11P6B OST1_PID\01 Source code\UT11P6B PLC\UT11P6B_OST1_PID_161212 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\UT11P6B OST1_PID
+[3/29] Copying: C:\vdClientArchive\.NAB\Draziaren\VK06P40 Rovema 1 balicka c.1\01 Source code\VK06P40 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VK06P40 Rovema 1 balicka c.1
+[4/29] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB10P24 Ishida-Eliss dopravniky vazenia\01 Source code\CB01P24 PLC Eliss\Ishida - Eliss -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\CB10P24 Ishida-Eliss dopravniky vazenia
+[5/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB19P23 Lantech krabicovac\01 Source code\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FB19P23 Lantech krabicovac
+[6/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL34P23 ZH316\01 Source code\FL34P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FL34P23 ZH316
+[7/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL33P23 ZH315\01 Source code\FL33P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FL33P23 ZH315
+[8/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL32P23 Temperirka AMC2000\01 Source code\FL32P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FL32P23 Temperirka AMC2000
+[9/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL30P23 Roztapacka R303\01 Source code\FL30P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FL30P23 Roztapacka R303
+[10/29] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL29P23 Roztapacka Milking R302\01 Source code\FL29P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\FL29P23 Roztapacka Milking R302
+[11/29] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU09P22 DTM2\01 Source code\HU09P22 PLC\HUTT_DTM03_CPU -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\HU09P22 DTM2
+[12/29] Copying: C:\vdClientArchive\.Floor 01\Umyvarka foriem\UM01P21 Umyvacka foriem\01 Source code\UM01H21 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\UM01P21 Umyvacka foriem
+[13/29] Copying: C:\vdClientArchive\.Floor 01\P&P\Packing\PP10P21 Skladacka vrskov Loesch\01 Source code\PP10P21 PLC\figaro loesch vrsky -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\PP10P21 Skladacka vrskov Loesch
+[14/29] Copying: C:\vdClientArchive\.Floor 01\P&P\Packing\PP07P21 Skladacka spodkov Loesch\01 Source code\PP07P21 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\PP07P21 Skladacka spodkov Loesch
+[15/29] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS12P21 Cokol.hosp. Loesch\01 Source code\LS12P21 PLC\CoHoLoes -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\LS12P21 Cokol.hosp. Loesch
+[16/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH31P20 Conche 1\01 Source code\VH31H20 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH31P20 Conche 1
+[17/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH21P20 ZH009\01 Source code\VH21P20 PLC\VH21P20_ZH009 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH21P20 ZH009
+[18/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH18P20 ZS006\01 Source code\VH18P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH18P20 ZS006
+[19/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH17P20 ZS005\01 Source code\VH17P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH17P20 ZS005
+[20/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH13H20 ZS001\01 Source code\VH13H20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH13H20 ZS001
+[21/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 2\VH02P20 2-valec L2\01 Source code\VH02P20 PLC\2valec L2 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH02P20 2-valec L2
+[22/29] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH07P20 5-valec 5 L1\01 Source code\VH07P20 PLC\5valec L1v5 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH07P20 5-valec 5 L1
+[23/29] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR11P52 Praziaren DTM (serverovna)\01 Source code\PR11P52 PLC\PRAZIAREN_DTM01 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\PR11P52 Praziaren DTM (serverovna)
+[24/29] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR04P10 Gulickovy mlyn NETSCH\01 Source code\Gulickovy mlyn -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\PR04P10 Gulickovy mlyn NETSCH
+[25/29] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM11P2B CM1200 chladenie\01 Source code\CM11P2B PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\CM11P2B CM1200 chladenie
+[26/29] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM09P20 Nugatove hospodarstvo\01 Source code\CM09P20 PLC\Nougat_Software -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\CM09P20 Nugatove hospodarstvo
+[27/29] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH08P2B SPX mixer 2 pasta\01 Source code\VH08P2B PLC\SPX2Pasta -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH08P2B SPX mixer 2 pasta
+[28/29] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH07P2B SPX mixer 1 aroma\01 Source code\VH07P2B PLC\SPX1Aroma -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH07P2B SPX mixer 1 aroma
+[29/29] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH06P2B KABU Kakaove maslo\01 Source code\VH06P2B PLC\Figaro KABU -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia16\VH06P2B KABU Kakaove maslo
+TOTAL COPIED: 29
+
+Scanning type: *.ap17
+[1/8] Copying: C:\vdClientArchive\SourceCodes\14_FORMOVACIA LINKA HUTT\HU09P22\HUTT_DTM03_CPU_V17 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\HU09P22
+[2/8] Copying: C:\vdClientArchive\.Utility\,Floor B\UT12P5B OST2_PID\01 Source code\UT12P5B PLC\UT12P5B_OST2_PID_100928 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\UT12P5B OST2_PID
+[3/8] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY09P24 Dochladzovanie ladovej vody CM620\01 Source code\CY09P24 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\CY09P24 Dochladzovanie ladovej vody CM620
+[4/8] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY04P24 Nalievacka MLR3\01 Source code\CY04H24 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\CY04P24 Nalievacka MLR3
+[5/8] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB22P23 TOSA ovinovacka\01 Source code\FB22P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\FB22P23 TOSA ovinovacka
+[6/8] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB22P23 TOSA ovinovacka\01 Source code\FB22H23 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\FB22P23 TOSA ovinovacka_v2
+[7/8] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR03P10 Nozovy mlyn NETSCH\01 Source code\Nozovy mlyn -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\PR03P10 Nozovy mlyn NETSCH
+[8/8] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM03P20 Nalievacka Aasted\01 Source code\CM03P20 PLC\Aasted Dosing Machine v17 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia17\CM03P20 Nalievacka Aasted
+TOTAL COPIED: 8
+
+Scanning type: *.ap18
+[1/30] Copying: C:\vdClientArchive\.Utility\Trafostanica\UT24P30 Trafostanica\01 Source code\UT24P30 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\UT24P30 Trafostanica
+[2/30] Copying: C:\vdClientArchive\.Utility\EnergySuite\01 Source Code\EnergySuite -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\UNKNOWN
+[3/30] Copying: C:\vdClientArchive\.SAB\.Floor 02\Automation Office\R&D\01 Source code\PLC S7-1200\TIA Portal_V18_old -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\01 Source code
+[4/30] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB13P24 Manex RM6 paletizacia\01 Source code\CB13P24 PLC\185_RM6 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CB13P24 Manex RM6 paletizacia
+[5/30] Copying: C:\vdClientArchive\.Floor 04\CM620\DTM\Datovy koncentrator\CM620_DTM -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CM620_DTM
+[6/30] Copying: C:\vdClientArchive\.Floor 03\Lekos\Packing\FB21P23 Manex vyradovanie\01 Source code\FB21P23 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\FB21P23 Manex vyradovanie
+[7/30] Copying: C:\vdClientArchive\.Floor 03\Lekos\DTM\Datovy koncentrator\Lekos_DataConcentrator -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\Lekos_DataConcentrator
+[8/30] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA07P23 Paletizacia MANEX\01 Source code\CA07P23 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CA07P23 Paletizacia MANEX
+[9/30] Copying: C:\vdClientArchive\.Floor 02\SiG, SAPAL, ROWEMA\SG02P22 Balicka SAPAL2 DPN6\01 Source code\SG02H22 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\SG02P22 Balicka SAPAL2 DPN6
+[10/30] Copying: C:\vdClientArchive\.Floor 02\SiG, SAPAL, ROWEMA\SG01P22 SIG3 (Rumba)\01 Source code\SG01P22 PLC\SIG3_V18 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\SG01P22 SIG3 (Rumba)
+[11/30] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE07P22 Temperirka Sollich MSV1500\01 Source code\JE07P22 PLC\Temperirka_MSV1500_20200122 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\JE07P22 Temperirka Sollich MSV1500
+[12/30] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU11P22 Z-mixery\01 Source code\HU11P22 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\HU11P22 Z-mixery
+[13/30] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU04P22 Chladiace tunely\01 Source code\HU04P22 PLC\Hutt Chladiace tunely -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\HU04P22 Chladiace tunely
+[14/30] Copying: C:\vdClientArchive\.Floor 02\CM275\Forming\CS05P22 Temperirka Sollich MSV1500\01 Source code\CM05P22 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CS05P22 Temperirka Sollich MSV1500
+[15/30] Copying: C:\vdClientArchive\.Floor 02\CM275\Forming\CS04P22 Temperirka Sollich MSV500\01 Source code\CS04P22 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CS04P22 Temperirka Sollich MSV500
+[16/30] Copying: C:\vdClientArchive\.Floor 01\Novapac\Packing\NP01P21 Solutech - Dopravny system linky\01 Source code\NP01H21 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\NP01P21 Solutech - Dopravny system linky
+[17/30] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH44P20 DTM VH\01 Source code\VH44P20 PLC\DTM_VH_L1\DTM_from_TTSys_V02 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\VH44P20 DTM VH
+[18/30] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH32P20 Conche 2\01 Source code\VH32H20 HMI\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\VH32P20 Conche 2
+[19/30] Copying: C:\vdClientArchive\.Floor 00\Mass production\DTM\Datovy koncentrator\VH_DataConcentrator -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\VH_DataConcentrator
+[20/30] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR13P10 DT3 Mlyny\01 Source code\PR13P10 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\PR13P10 DT3 Mlyny
+[21/30] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR06P10 KAMA - kakaova hmota\01 Source code\PR06P10 PLC\PR06P10_Figaro KAMA_V16 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\PR06P10 KAMA - kakaova hmota
+[22/30] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\DTM\Datovy koncentrator\PKB_DataConcentrator -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\PKB_DataConcentrator
+[23/30] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM08P20 ZH003\01 Source code\CM08P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CM08P20 ZH003
+[24/30] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM05P20 Temperirka Aasted Orbit\01 Source code\CM05P20 PLC\Aasted Orbit v17 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CM05P20 Temperirka Aasted Orbit
+[25/30] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM04P20 Roztapacka R002\01 Source code\CM04P20 PLC\Roztap_R002 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CM04P20 Roztapacka R002
+[26/30] Copying: C:\vdClientArchive\.Floor 00\CM1200\DTM\Datovy koncentrator\CM1200_DataConcentrator -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\CM1200_DataConcentrator
+[27/30] Copying: C:\vdClientArchive\,Floor B\Mass Storing\SI06P7B Cukrove silo S06\01 Source code\SI06P7B PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\SI06P7B Cukrove silo S06
+[28/30] Copying: C:\vdClientArchive\,Floor B\Mass Storing\SI04P7B Sila 25-27\01 Source code\SI04P7B PLC\RFMAH25 v18 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\SI04P7B Sila 25-27
+[29/30] Copying: C:\vdClientArchive\,Floor B\Mass Storing\SI03P7B Sila 20-24\01 Source code\SI03P7B PLC\BraR2V24 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\SI03P7B Sila 20-24
+[30/30] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH09P2B Vzduchotechnika pre VH-Valcovnu\01 Source code\VH09P2B PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia18\VH09P2B Vzduchotechnika pre VH-Valcovnu
+TOTAL COPIED: 30
+
+Scanning type: *.ap19
+[1/55] Copying: C:\vdClientArchive\VD_TMP_VD\B988_16 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\UNKNOWN
+[2/55] Copying: C:\vdClientArchive\.Utility\.Kompresory AtlasCopco\UT21P80 K-COMM\01 Source code\UT21P80 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\UT21P80 K-COMM
+[3/55] Copying: C:\vdClientArchive\.Utility\,Floor B\UT23P30 DieselAgregat\01 Source code\UT23P30\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\UT23P30 DieselAgregat
+[4/55] Copying: C:\vdClientArchive\.SAB\.Floor 02\Automation Office\R&D\01 Source code\PLC S7-1500\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\01 Source code
+[5/55] Copying: C:\vdClientArchive\.SAB\.Floor 02\Automation Office\R&D\01 Source code\PLC S7-1200\Testovaci_rozvadzac -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\01 Source code_v2
+[6/55] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY20P25 ZH408\01 Source code\CY20P25 PLC\ZH408 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CY20P25 ZH408
+[7/55] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY19P24 ZH407\01 Source code\CY19P24 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CY19P24 ZH407
+[8/55] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY18P25 ZH406\01 Source code\CY18P25 PLC\ZH406 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CY18P25 ZH406
+[9/55] Copying: C:\vdClientArchive\.Floor 03\VARNA\VA03P23 ZH305\01 Source code\VA03P23 PLC\ZH305 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VA03P23 ZH305
+[10/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL26P23 ZH314\01 Source code\FL26P23 PLC\ZH314 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL26P23 ZH314
+[11/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL25P23 ZH313\01 Source code\FL25P23 PLC\ZH313 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL25P23 ZH313
+[12/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL24P23 ZH312\01 Source code\FL24P23 PLC\ZH312 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL24P23 ZH312
+[13/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL23P23 ZH311\01 Source code\FL23P23 PLC\ZH311 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL23P23 ZH311
+[14/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL22P23 ZH310\01 Source code\FL22P23 PLC\ZH310 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL22P23 ZH310
+[15/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL21P23 ZH309\01 Source code\FL21P23 PLC\ZH309 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL21P23 ZH309
+[16/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL20P23 ZH307\01 Source code\FL20H23 PLC\ZH307 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL20P23 ZH307
+[17/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL19P23 ZH301\01 Source code\FL19P23 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL19P23 ZH301
+[18/55] Copying: C:\vdClientArchive\.Floor 03\Lekos\Forming\FL11P23 Temperirka Rasch\01 Source code\FL11P23 PLC\Rasch -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\FL11P23 Temperirka Rasch
+[19/55] Copying: C:\vdClientArchive\.Floor 02\SMP MIXER\SM03P22 ZH224\01 Source code\SM03P22 PLC\ZH224 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\SM03P22 ZH224
+[20/55] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE09P22 ZH223\01 Source code\JE09P22 PLC\ZH223 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\JE09P22 ZH223
+[21/55] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE04P22 Chladenie linky Jensen\01 Source code\JE04P22 PLC\CHLAD_JENSEN_201023 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\JE04P22 Chladenie linky Jensen
+[22/55] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU10P22 Zasobnik ZH208\01 Source code\HU10P22 PLC\ZH208 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\HU10P22 Zasobnik ZH208
+[23/55] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU07P22 ZH213\01 Source code\HU07P22 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\HU07P22 ZH213
+[24/55] Copying: C:\vdClientArchive\.Floor 02\HUTT\Forming\HU05P22 Cokoladove hospodarstvo HUTT\01 Source code\HU05P22 PLC\CoHoHutt -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\HU05P22 Cokoladove hospodarstvo HUTT
+[25/55] Copying: C:\vdClientArchive\.Floor 02\CM275\Forming\CS10P22 Mobilny zasobnik ELT\01 Source code\CS10P22 PLC\Mobilny zasobnik ELT -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CS10P22 Mobilny zasobnik ELT
+[26/55] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS22P21 ZH116\01 Source code\LS22P21 PLC\ZH116 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\LS22P21 ZH116
+[27/55] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS21P21 ZH115\01 Source code\LS21P21 PLC\ZH115 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\LS21P21 ZH115
+[28/55] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS20P21 ZH114\01 Source code\LS20P21 PLC\ZH114 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\LS20P21 ZH114
+[29/55] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS16P21 ZH104\01 Source code\LS16P21 PLC\ZH104 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\LS16P21 ZH104
+[30/55] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS09P21 Temperirka MSV1580\01 Source code\LS09P21 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\LS09P21 Temperirka MSV1580
+[31/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH45P20 Doprava hmoty L1+L2\01 Source code\VH45P20 PLC\Doprava hmoty -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH45P20 Doprava hmoty L1+L2
+[32/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH41P20 Vycerpavanie hmot\01 Source code\VH41P20 PLC\Vycerpavanie -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH41P20 Vycerpavanie hmot
+[33/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH30P20 ZH020\01 Source code\VH30P20 PLC\ZH020 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH30P20 ZH020
+[34/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH29P20 ZH019\01 Source code\VH29P20 PLC\ZH019 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH29P20 ZH019
+[35/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH28P20 ZH017\01 Source code\VH28P20 PLC\ZH017 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH28P20 ZH017
+[36/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH27P20 ZH016\01 Source code\VH27P20 PLC\VH27P20_ZH016 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH27P20 ZH016
+[37/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH26P20 ZH015\01 Source code\VH26P20 PLC\ZH015 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH26P20 ZH015
+[38/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH24P20 ZH013\01 Source code\VH24P20 PLC\VH24P20_ZH013 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH24P20 ZH013
+[39/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH20P20 ZS008\01 Source code\VH020P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH20P20 ZS008
+[40/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH19P20 ZS007\01 Source code\VH19P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH19P20 ZS007
+[41/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH16P20 ZS004\01 Source code\VH16P20 PLC\ZS004 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH16P20 ZS004
+[42/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\VH14P20 ZS002\01 Source code\VH14P20 PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH14P20 ZS002
+[43/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH05P20 5-valec 3 L1\01 Source code\VH05P20 PLC\5V3_L1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH05P20 5-valec 3 L1
+[44/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH04P20 5-valec 2 L1\01 Source code\VH04P20 PLC\5V2_L1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH04P20 5-valec 2 L1
+[45/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH03P20 5-valec 1 L1\01 Source code\VH03P20 PLC\5V1_L1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH03P20 5-valec 1 L1
+[46/55] Copying: C:\vdClientArchive\.Floor 00\Mass production\Line 1\VH00P20 Mixer L1\01 Source code\VH00P20 PLC\Mixer_L1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH00P20 Mixer L1
+[47/55] Copying: C:\vdClientArchive\.Floor 00\CM1200\Forming\CM01P20 Form.linka CM1200\01 Source code\CM01P20 PLC\CM1200FL -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CM01P20 Form.linka CM1200
+[48/55] Copying: C:\vdClientArchive\,Floor B\Mass Storing\SI01P2B Sila 01-16\01 Source code\SI01P2B PLC\Sila01az16 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\SI01P2B Sila 01-16
+[49/55] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH05P2B ZHB04\01 Source code\VH05P2B PLC\ZHB04 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH05P2B ZHB04
+[50/55] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH04P2B ZHB03\01 Source code\VH04P2B PLC\ZHB03 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH04P2B ZHB03
+[51/55] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH03P2B ZHB02\01 Source code\VH03P2B PLC\ZHB02 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH03P2B ZHB02
+[52/55] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH02P2B ZHB01\01 Source code\VH02P2B PLC\ZHB01 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH02P2B ZHB01
+[53/55] Copying: C:\vdClientArchive\,Floor B\Mass Production\VH01P2B Chladenie 5-valce\01 Source code\VH01P2B PLC\Chladenie5valec -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\VH01P2B Chladenie 5-valce
+[54/55] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM07P2B Paletizacia Manex\01 Source code\CM07P2B PLC\RDE_MONDELEZ_RM2 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CM07P2B Paletizacia Manex
+[55/55] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM05P2B Dopr.cesty pred Elematicom\01 Source code\CM05P2B PLC\RDE_MONDELEZ_RM1 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia19\CM05P2B Dopr.cesty pred Elematicom
+TOTAL COPIED: 55
+
+Scanning type: *.ap20
+[1/7] Copying: C:\vdClientArchive\.Floor 04\CM620\Forming\CY16P25 ZH402\01 Source code\ZH402 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\CY16P25 ZH402
+[2/7] Copying: C:\vdClientArchive\.Floor 02\Jensen\Forming\JE08P22 ZH219\01 Source code\JE08H22 PLC\ZH219 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\JE08P22 ZH219
+[3/7] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS18P21 ZH109\01 Source code\LS18P21 PLC\ZH109 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\LS18P21 ZH109
+[4/7] Copying: C:\vdClientArchive\.Floor 01\Loesch\Forming\LS14P21 ZH102\01 Source code\LS14P21 PLC\ZH102 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\LS14P21 ZH102
+[5/7] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR15P12 Dotukovanie likeru AxFlow\01 Source code\PLC\TIA Portal -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\PR15P12 Dotukovanie likeru AxFlow
+[6/7] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR10P10 Petzomat ZH04\01 Source code\PR10P10 PLC\ZH04 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\PR10P10 Petzomat ZH04
+[7/7] Copying: C:\vdClientArchive\.Floor 00\Cocoa Beans Production\PR09P10 Petzomat ZH01\01 Source Code\PR09P10 PLC\ZH01 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\tia20\PR09P10 Petzomat ZH01
+TOTAL COPIED: 7
+
+Scanning type: *.acd
+[1/15] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB04P24 Bosch Balicka c.3\01 Source code\PLC\00. Master\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CB04P24 Bosch Balicka c.3
+[2/15] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB03P24 Bosch Balicka c.2\01 Source code\PLC\00. Master\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CB03P24 Bosch Balicka c.2
+[3/15] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB02P24 Bosch Balicka c.1\01 Source code\PLC\Master\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CB02P24 Bosch Balicka c.1
+[4/15] Copying: C:\vdClientArchive\.Floor 04\CM620\Packing\CB01P24 Bosch dopravniky\01 Source code\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CB01P24 Bosch dopravniky
+[5/15] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA06P23 Krabicovac CAMA\01 Source code\CA06P23 PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CA06P23 Krabicovac CAMA
+[6/15] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA04P23 Zatvaracka B CAMA\01 Source code\CA04P23 PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CA04P23 Zatvaracka B CAMA
+[7/15] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA03P23 Zatvaracka A CAMA\01 Source code\CA03P23 PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CA03P23 Zatvaracka A CAMA
+[8/15] Copying: C:\vdClientArchive\.Floor 03\Cama\Packing\CA02P23 Skladacka CAMA\01 Source code\CA02P23 PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CA02P23 Skladacka CAMA
+[9/15] Copying: C:\vdClientArchive\.Floor 02\HUTT\Packing\HB06P22 CAMA Robot.Ukladacka\01 Source code\HB06P22 PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\HB06P22 CAMA Robot.Ukladacka
+[10/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM06P2B Elematic\01 Source code\CM06P2B PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM06P2B Elematic
+[11/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM03P2B Ukladacka TTLi\01 Source code\CM03P2B PLC TTL\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM03P2B Ukladacka TTLi
+[12/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM03P2B Ukladacka TTLi\01 Source code\CM03P2B PLC MCP\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM03P2B Ukladacka TTLi_v2
+[13/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM02P2B Balicka HRD\01 Source code\CM02P2B PLC 2\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM02P2B Balicka HRD
+[14/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM02P2B Balicka HRD\01 Source code\CM02P2B PLC 1\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM02P2B Balicka HRD_v2
+[15/15] Copying: C:\vdClientArchive\,Floor B\CM1200\Packing\CM01P2B Buffer Sacmi\01 Source code\CM01P2B PLC\RSLogix5000 -> C:\Users\UOR3455\Auto_PLCs_Devices_Collector\collected_projects\rockwell\CM01P2B Buffer Sacmi
+TOTAL COPIED: 15
+
+========= SUMMARY =========
+rockwell   : 15
+step7      : 81
+tia10      : 0
+tia11      : 1
+tia12      : 4
+tia13      : 16
+tia14      : 11
+tia15      : 1
+tia15_1    : 8
+tia16      : 29
+tia17      : 8
+tia18      : 30
+tia19      : 55
+tia20      : 7
+===========================
+Done.

@@ -1,0 +1,74 @@
+[
+  {
+    "Device": "CoHoHutt-HMI",
+    "DeviceItem": "CoHoHutt-HMI",
+    "Firmware": "19.0.0.0",
+    "OrderNumber": "6AV2 128-3MB06-0AXx"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-\/4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "CoHoHutt-PLC",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "SCALANCE X-200",
+    "DeviceItem": "CoHoHutt-XF204",
+    "Firmware": "5.0",
+    "OrderNumber": "6GK5 204-0BA00-2AF2"
+  }
+]

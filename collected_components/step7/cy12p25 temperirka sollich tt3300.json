@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "plc tcn",
+    "DeviceItem": "AI4\/AO2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 334-0KE00-0AB0"
+  },
+  {
+    "Device": "plc tcn",
+    "DeviceItem": "AI8xRTD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7PF01-0AB0"
+  },
+  {
+    "Device": "plc tcn",
+    "DeviceItem": "cm620-tt3300-plc",
+    "Firmware": "1.0",
+    "OrderNumber": "6GK7 343-1CX00-0XE0"
+  },
+  {
+    "Device": "plc tcn",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-6CF03-0AB0"
+  }
+]

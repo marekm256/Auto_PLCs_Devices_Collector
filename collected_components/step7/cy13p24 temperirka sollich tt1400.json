@@ -1,0 +1,56 @@
+[
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "AI4\/AO2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 334-0KE00-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "AI4\/AO2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 334-0KE00-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "AI8xRTD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7PF00-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "CP 343-1 Lean",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  }
+]

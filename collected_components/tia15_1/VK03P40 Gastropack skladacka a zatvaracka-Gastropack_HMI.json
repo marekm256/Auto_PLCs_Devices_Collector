@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "DeviceProxy-Station_1",
+    "DeviceItem": "gastropack_S7-300",
+    "Firmware": "",
+    "OrderNumber": "6ES7 XXX-XXXXX-XXXX"
+  },
+  {
+    "Device": "gastropack-ktp1200",
+    "DeviceItem": "gastropack-ktp1200",
+    "Firmware": "15.1.0.0",
+    "OrderNumber": "6AV2 123-2MB03-0AX0"
+  }
+]

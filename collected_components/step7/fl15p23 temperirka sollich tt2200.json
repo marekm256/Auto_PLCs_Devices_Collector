@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "plc tt",
+    "DeviceItem": "AI8xRTD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7PF01-0AB0"
+  },
+  {
+    "Device": "plc tt",
+    "DeviceItem": "CPU 314C-2 PN\/DP",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 314-6EH04-0AB0"
+  }
+]

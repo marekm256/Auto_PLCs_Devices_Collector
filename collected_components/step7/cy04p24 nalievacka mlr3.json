@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "mlr3",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF02-0AB0"
+  },
+  {
+    "Device": "mlr3",
+    "DeviceItem": "CP 343-1 Lean",
+    "Firmware": "2.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "mlr3",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.6",
+    "OrderNumber": "6ES7 313-6CF03-0AB0"
+  },
+  {
+    "Device": "mlr3",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "mlr3",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "mlr3",
+    "DeviceItem": "PS 307 2A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1BA00-0AA0"
+  }
+]

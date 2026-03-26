@@ -1,0 +1,86 @@
+[
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "AI 8xRTD\/TC 2-wire HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6JF00-0CA1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "F-DQ 4x24VDC\/2A PM HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "l1v5-cpu",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "RQ 4x120VDC\/230VAC\/5A NO ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6HD01-0BB1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "l1v5-op",
+    "DeviceItem": "l1v5-op",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0JC01-0AX0"
+  }
+]

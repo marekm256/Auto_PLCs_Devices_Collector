@@ -1,0 +1,134 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-\/4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 8x24VDC\/0.5A BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Hutt-CHT2",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 510-1DK03-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "DQ 16x24VDC\/0.5A BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "IO_CHT1",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 155-6AR00-0AN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "DI 8x24VDC BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "DQ 8x24VDC\/0.5A BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "IO_CP2",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 155-6AR00-0AN0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "Hutt-TP700",
+    "DeviceItem": "Hutt-TP700",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  },
+  {
+    "Device": "SCALANCE XB-200",
+    "DeviceItem": "hutt-cht1-xb208",
+    "Firmware": "4.3",
+    "OrderNumber": "6GK5 208-0BA00-2AB2"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "Hutt-cht1-gf1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE15-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "Hutt-cht1-gf2",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE15-8AF2"
+  }
+]

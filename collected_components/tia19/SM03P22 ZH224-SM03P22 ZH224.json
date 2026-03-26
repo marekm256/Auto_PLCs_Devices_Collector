@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "OP_ZH224",
+    "DeviceItem": "KTP400 Basic PN",
+    "Firmware": "14.0.1.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8\/DQ8 x 24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BL32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "ZH224",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  }
+]

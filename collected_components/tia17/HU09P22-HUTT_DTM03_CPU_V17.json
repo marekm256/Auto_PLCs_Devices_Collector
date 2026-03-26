@@ -1,0 +1,20 @@
+[
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "URIODev1",
+    "Firmware": "",
+    "OrderNumber": "00000"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "plx32-pnd",
+    "Firmware": "1.02.002",
+    "OrderNumber": "EPD2"
+  },
+  {
+    "Device": "S71500\/ET200MP station_1",
+    "DeviceItem": "HUTT_DTM03_CPU",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 511-1AK02-0AB0"
+  }
+]

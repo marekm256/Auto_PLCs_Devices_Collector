@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "rm4",
+    "DeviceItem": "CPU 312",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 312-1AE14-0AB0"
+  },
+  {
+    "Device": "rm4",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  }
+]

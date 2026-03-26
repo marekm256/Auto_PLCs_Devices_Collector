@@ -1,0 +1,2518 @@
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 2
+[Status] Groups with JSON files: 2
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/2: step7
+[Status] JSON files found: 2
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7
+
+[Status] Project 1/2: cy12p25 temperirka sollich tt3300.json
+
+[Status] Device 1/4: plc tcn (6ES7 334-0KE00-0AB0)
+[Meta] 6ES7 334-0KE00-0AB0 -> image loaded from cache.
+[Meta] 6ES7 334-0KE00-0AB0 -> loading page...
+[Meta] 6ES7 334-0KE00-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/4: plc tcn (6ES7 331-7PF01-0AB0)
+[Meta] 6ES7 331-7PF01-0AB0 -> image loaded from cache.
+[Meta] 6ES7 331-7PF01-0AB0 -> loading page...
+[Meta] 6ES7 331-7PF01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/4: plc tcn (6GK7 343-1CX00-0XE0)
+[Meta] 6GK7 343-1CX00-0XE0 -> loading page...
+[Meta] 6GK7 343-1CX00-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1CX00-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/4: plc tcn (6ES7 313-6CF03-0AB0)
+[Meta] 6ES7 313-6CF03-0AB0 -> loading page...
+[Meta] 6ES7 313-6CF03-0AB0 -> metadata download failed: Timeout 30000ms exceeded.
+Call log:
+  - waiting for Locator("picture img.fit--contain").First
+[Result] JSON processed: cy12p25 temperirka sollich tt3300.json
+[Result] Rows loaded: 4
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\cy12p25 temperirka sollich tt3300.xlsx
+
+[Status] Project 2/2: fl10p23 nalievacka winkler.json
+
+[Status] Device 1/3: simatic 300 (6ES7 134-4GB11-0AB0)
+[Meta] 6ES7 134-4GB11-0AB0 -> image loaded from cache.
+[Meta] 6ES7 134-4GB11-0AB0 -> loading page...
+[Meta] 6ES7 134-4GB11-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: fl10p23 nalievacka winkler.json
+[Result] Rows loaded: 3
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\fl10p23 nalievacka winkler.xlsx
+========================================================================================
+
+========================================================================================
+[Group] 2/2: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 2; Total JSON files: 3; Excel files created: 3; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 2
+[Status] Groups with JSON files: 2
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/2: step7
+[Status] JSON files found: 2
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7
+
+[Status] Project 1/2: cy12p25 temperirka sollich tt3300.json
+
+[Status] Device 1/4: plc tcn (6ES7 334-0KE00-0AB0)
+[Meta] 6ES7 334-0KE00-0AB0 -> image loaded from cache.
+[Meta] 6ES7 334-0KE00-0AB0 -> loading page...
+[Meta] 6ES7 334-0KE00-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/4: plc tcn (6ES7 331-7PF01-0AB0)
+[Meta] 6ES7 331-7PF01-0AB0 -> image loaded from cache.
+[Meta] 6ES7 331-7PF01-0AB0 -> loading page...
+[Meta] 6ES7 331-7PF01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/4: plc tcn (6GK7 343-1CX00-0XE0)
+[Meta] 6GK7 343-1CX00-0XE0 -> loading page...
+[Meta] 6GK7 343-1CX00-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1CX00-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/4: plc tcn (6ES7 313-6CF03-0AB0)
+[Meta] 6ES7 313-6CF03-0AB0 -> loading page...
+[Meta] 6ES7 313-6CF03-0AB0 -> image not found on page.
+[Meta] 6ES7 313-6CF03-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: cy12p25 temperirka sollich tt3300.json
+[Result] Rows loaded: 4
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\cy12p25 temperirka sollich tt3300.xlsx
+
+[Status] Project 2/2: fl10p23 nalievacka winkler.json
+
+[Status] Device 1/3: simatic 300 (6ES7 134-4GB11-0AB0)
+[Meta] 6ES7 134-4GB11-0AB0 -> image loaded from cache.
+[Meta] 6ES7 134-4GB11-0AB0 -> loading page...
+[Meta] 6ES7 134-4GB11-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: fl10p23 nalievacka winkler.json
+[Result] Rows loaded: 3
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\fl10p23 nalievacka winkler.xlsx
+========================================================================================
+
+========================================================================================
+[Group] 2/2: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 2; Total JSON files: 3; Excel files created: 3; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 2
+[Status] Groups with JSON files: 2
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/2: step7
+[Status] JSON files found: 2
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7
+
+[Status] Project 1/2: cy12p25 temperirka sollich tt3300.json
+
+[Status] Device 1/4: plc tcn (6ES7 334-0KE00-0AB0)
+[Meta] 6ES7 334-0KE00-0AB0 -> image loaded from cache.
+[Meta] 6ES7 334-0KE00-0AB0 -> loading page...
+[Meta] 6ES7 334-0KE00-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/4: plc tcn (6ES7 331-7PF01-0AB0)
+[Meta] 6ES7 331-7PF01-0AB0 -> image loaded from cache.
+[Meta] 6ES7 331-7PF01-0AB0 -> loading page...
+[Meta] 6ES7 331-7PF01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/4: plc tcn (6GK7 343-1CX00-0XE0)
+[Meta] 6GK7 343-1CX00-0XE0 -> loading page...
+[Meta] 6GK7 343-1CX00-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1CX00-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/4: plc tcn (6ES7 313-6CF03-0AB0)
+[Meta] 6ES7 313-6CF03-0AB0 -> loading page...
+[Meta] 6ES7 313-6CF03-0AB0 -> downloading image...
+[Meta] 6ES7 313-6CF03-0AB0 -> image not found on page.
+[Meta] 6ES7 313-6CF03-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: cy12p25 temperirka sollich tt3300.json
+[Result] Rows loaded: 4
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\cy12p25 temperirka sollich tt3300.xlsx
+
+[Status] Project 2/2: fl10p23 nalievacka winkler.json
+
+[Status] Device 1/3: simatic 300 (6ES7 134-4GB11-0AB0)
+[Meta] 6ES7 134-4GB11-0AB0 -> image loaded from cache.
+[Meta] 6ES7 134-4GB11-0AB0 -> loading page...
+[Meta] 6ES7 134-4GB11-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: fl10p23 nalievacka winkler.json
+[Result] Rows loaded: 3
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\fl10p23 nalievacka winkler.xlsx
+========================================================================================
+
+========================================================================================
+[Group] 2/2: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 2; Total JSON files: 3; Excel files created: 3; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 2
+[Status] Groups with JSON files: 2
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/2: step7
+[Status] JSON files found: 2
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7
+
+[Status] Project 1/2: cy12p25 temperirka sollich tt3300.json
+
+[Status] Device 1/4: plc tcn (6ES7 334-0KE00-0AB0)
+[Meta] 6ES7 334-0KE00-0AB0 -> image loaded from cache.
+[Meta] 6ES7 334-0KE00-0AB0 -> loading page...
+[Meta] 6ES7 334-0KE00-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/4: plc tcn (6ES7 331-7PF01-0AB0)
+[Meta] 6ES7 331-7PF01-0AB0 -> image loaded from cache.
+[Meta] 6ES7 331-7PF01-0AB0 -> loading page...
+[Meta] 6ES7 331-7PF01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/4: plc tcn (6GK7 343-1CX00-0XE0)
+[Meta] 6GK7 343-1CX00-0XE0 -> loading page...
+[Meta] 6GK7 343-1CX00-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1CX00-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/4: plc tcn (6ES7 313-6CF03-0AB0)
+[Meta] 6ES7 313-6CF03-0AB0 -> loading page...
+[Meta] 6ES7 313-6CF03-0AB0 -> downloading image...
+[Meta] 6ES7 313-6CF03-0AB0 -> image not found on page.
+[Meta] 6ES7 313-6CF03-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: cy12p25 temperirka sollich tt3300.json
+[Result] Rows loaded: 4
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\cy12p25 temperirka sollich tt3300.xlsx
+
+[Status] Project 2/2: fl10p23 nalievacka winkler.json
+
+[Status] Device 1/3: simatic 300 (6ES7 134-4GB11-0AB0)
+[Meta] 6ES7 134-4GB11-0AB0 -> image loaded from cache.
+[Meta] 6ES7 134-4GB11-0AB0 -> loading page...
+[Meta] 6ES7 134-4GB11-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/3: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: fl10p23 nalievacka winkler.json
+[Result] Rows loaded: 3
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\fl10p23 nalievacka winkler.xlsx
+========================================================================================
+
+========================================================================================
+[Group] 2/2: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 2; Total JSON files: 3; Excel files created: 3; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Step7_DevicesExporter\bin\x64\net472\Step7_DevicesExporter.exe "collected_configs"
+[Status] Input folder: collected_configs
+[Status] Looking for STEP7 folder: collected_configs\step7
+[Status] Config files found: 3
+[Status] Export folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_components\step7
+[Status] Project groups found: 2
+
+========================================================================================
+[Project] 1/2
+[Group] cy12p25 temperirka sollich tt3300
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy12p25 temperirka sollich tt3300-1-plc -tcn.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_components\step7\cy12p25 temperirka sollich tt3300.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 2/2
+[Group] fl10p23 nalievacka winkler
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 2
+[Step] Scanning config: fl10p23 nalievacka winkler-1-simatic 300.cfg
+[Result] DeviceItems found in config: 28
+[Step] Scanning config: fl10p23 nalievacka winkler-2-simotion d.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 30
+[Result] DeviceItems saved: 30
+[Result] JSON: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_components\step7\fl10p23 nalievacka winkler.json
+[Status] Project finished.
+========================================================================================
+
+[Status] All projects processed.
+[Summary] Successful projects: 2; Projects with errors: 0; Skipped configs: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 2
+[Status] Groups with JSON files: 2
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/2: step7
+[Status] JSON files found: 2
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7
+
+[Status] Project 1/2: cy12p25 temperirka sollich tt3300.json
+
+[Status] Device 1/4: plc tcn (6ES7 334-0KE00-0AB0)
+[Meta] 6ES7 334-0KE00-0AB0 -> loading page...
+[Meta] 6ES7 334-0KE00-0AB0 -> downloading image...
+[Meta] 6ES7 334-0KE00-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 334-0KE00-0AB0.jpg
+[Meta] 6ES7 334-0KE00-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/4: plc tcn (6ES7 331-7PF01-0AB0)
+[Meta] 6ES7 331-7PF01-0AB0 -> loading page...
+[Meta] 6ES7 331-7PF01-0AB0 -> downloading image...
+[Meta] 6ES7 331-7PF01-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 331-7PF01-0AB0.jpg
+[Meta] 6ES7 331-7PF01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/4: plc tcn (6GK7 343-1CX00-0XE0)
+[Meta] 6GK7 343-1CX00-0XE0 -> loading page...
+[Meta] 6GK7 343-1CX00-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1CX00-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/4: plc tcn (6ES7 313-6CF03-0AB0)
+[Meta] 6ES7 313-6CF03-0AB0 -> loading page...
+[Meta] 6ES7 313-6CF03-0AB0 -> downloading image...
+[Meta] 6ES7 313-6CF03-0AB0 -> image not found on page.
+[Meta] 6ES7 313-6CF03-0AB0 -> lifecycle: ok; description: ok
+[Result] JSON processed: cy12p25 temperirka sollich tt3300.json
+[Result] Rows loaded: 4
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\cy12p25 temperirka sollich tt3300.xlsx
+
+[Status] Project 2/2: fl10p23 nalievacka winkler.json
+
+[Status] Device 1/30: simatic 300 (6ES7 134-4GB11-0AB0)
+[Meta] 6ES7 134-4GB11-0AB0 -> loading page...
+[Meta] 6ES7 134-4GB11-0AB0 -> downloading image...
+[Meta] 6ES7 134-4GB11-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 134-4GB11-0AB0.jpg
+[Meta] 6ES7 134-4GB11-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/30: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/30: simatic 300 (6ES7 134-4JB50-0AB0)
+[Meta] 6ES7 134-4JB50-0AB0 -> loading page...
+[Meta] 6ES7 134-4JB50-0AB0 -> image not found on page.
+[Meta] 6ES7 134-4JB50-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/30: simatic 300 (6ES7 135-4GB01-0AB0)
+[Meta] 6ES7 135-4GB01-0AB0 -> loading page...
+[Meta] 6ES7 135-4GB01-0AB0 -> downloading image...
+[Meta] 6ES7 135-4GB01-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 135-4GB01-0AB0.jpg
+[Meta] 6ES7 135-4GB01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> downloading image...
+[Meta] 6ES7 131-4BD01-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 131-4BD01-0AA0.jpg
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 10/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 11/30: simatic 300 (6ES7 131-4BD01-0AA0)
+[Meta] 6ES7 131-4BD01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 131-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 131-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 12/30: simatic 300 (6ES7 132-4BD01-0AA0)
+[Meta] 6ES7 132-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 132-4BD01-0AA0 -> image not found on page.
+[Meta] 6ES7 132-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 13/30: simatic 300 (6ES7 132-4BD01-0AA0)
+[Meta] 6ES7 132-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 132-4BD01-0AA0 -> image not found on page.
+[Meta] 6ES7 132-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 14/30: simatic 300 (6ES7 132-4BD01-0AA0)
+[Meta] 6ES7 132-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 132-4BD01-0AA0 -> image not found on page.
+[Meta] 6ES7 132-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 15/30: simatic 300 (6ES7 132-4BD01-0AA0)
+[Meta] 6ES7 132-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 132-4BD01-0AA0 -> image not found on page.
+[Meta] 6ES7 132-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 16/30: simatic 300 (6ES7 132-4BD01-0AA0)
+[Meta] 6ES7 132-4BD01-0AA0 -> loading page...
+[Meta] 6ES7 132-4BD01-0AA0 -> image not found on page.
+[Meta] 6ES7 132-4BD01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 17/30: simatic 300 (6ES7 151-1AA05-0AB0)
+[Meta] 6ES7 151-1AA05-0AB0 -> loading page...
+[Meta] 6ES7 151-1AA05-0AB0 -> image not found on page.
+[Meta] 6ES7 151-1AA05-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 18/30: simatic 300 (6ES7 151-1AA04-0AB0)
+[Meta] 6ES7 151-1AA04-0AB0 -> loading page...
+[Meta] 6ES7 151-1AA04-0AB0 -> image not found on page.
+[Meta] 6ES7 151-1AA04-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 19/30: simatic 300 (6GK7 343-1EX21-0XE0)
+[Meta] 6GK7 343-1EX21-0XE0 -> loading page...
+[Meta] 6GK7 343-1EX21-0XE0 -> image not found on page.
+[Meta] 6GK7 343-1EX21-0XE0 -> lifecycle: ok; description: ok
+
+[Status] Device 20/30: simatic 300 (6ES7 315-2AG10-0AB0)
+[Meta] 6ES7 315-2AG10-0AB0 -> loading page...
+[Meta] 6ES7 315-2AG10-0AB0 -> image not found on page.
+[Meta] 6ES7 315-2AG10-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 21/30: simatic 300 (6ES7 321-1BL00-0AA0)
+[Meta] 6ES7 321-1BL00-0AA0 -> loading page...
+[Meta] 6ES7 321-1BL00-0AA0 -> image not found on page.
+[Meta] 6ES7 321-1BL00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 22/30: simatic 300 (6ES7 321-1BL00-0AA0)
+[Meta] 6ES7 321-1BL00-0AA0 -> loading page...
+[Meta] 6ES7 321-1BL00-0AA0 -> downloading image...
+[Meta] 6ES7 321-1BL00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 321-1BL00-0AA0.jpg
+[Meta] 6ES7 321-1BL00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 23/30: simatic 300 (6ES7 322-1BL00-0AA0)
+[Meta] 6ES7 322-1BL00-0AA0 -> loading page...
+[Meta] 6ES7 322-1BL00-0AA0 -> downloading image...
+[Meta] 6ES7 322-1BL00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 322-1BL00-0AA0.jpg
+[Meta] 6ES7 322-1BL00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 24/30: simatic 300 (6ES7 322-1BL00-0AA0)
+[Meta] 6ES7 322-1BL00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 322-1BL00-0AA0 -> loading page...
+[Meta] 6ES7 322-1BL00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 25/30: simatic 300 (6ES7 138-4CA01-0AA0)
+[Meta] 6ES7 138-4CA01-0AA0 -> loading page...
+[Meta] 6ES7 138-4CA01-0AA0 -> downloading image...
+[Meta] 6ES7 138-4CA01-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 138-4CA01-0AA0.jpg
+[Meta] 6ES7 138-4CA01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 26/30: simatic 300 (6ES7 138-4CA01-0AA0)
+[Meta] 6ES7 138-4CA01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 138-4CA01-0AA0 -> loading page...
+[Meta] 6ES7 138-4CA01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 27/30: simatic 300 (6ES7 138-4CA01-0AA0)
+[Meta] 6ES7 138-4CA01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 138-4CA01-0AA0 -> loading page...
+[Meta] 6ES7 138-4CA01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 28/30: simatic 300 (6ES7 138-4CA01-0AA0)
+[Meta] 6ES7 138-4CA01-0AA0 -> image loaded from cache.
+[Meta] 6ES7 138-4CA01-0AA0 -> loading page...
+[Meta] 6ES7 138-4CA01-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 29/30: simotion d (6AU1 435-0AA00-0AA1)
+[Meta] 6AU1 435-0AA00-0AA1 -> loading page...
+[Meta] 6AU1 435-0AA00-0AA1 -> image not found on page.
+[Meta] 6AU1 435-0AA00-0AA1 -> retrying metadata load...
+[Meta] 6AU1 435-0AA00-0AA1 -> metadata download failed: Target page, context or browser has been closed
+
+[Status] Device 30/30: simotion d (6AU1 435-0AA00-0AA1)
+[Meta] 6AU1 435-0AA00-0AA1 -> loading page...
+[Meta] 6AU1 435-0AA00-0AA1 -> downloading image...
+[Meta] 6AU1 435-0AA00-0AA1 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6AU1 435-0AA00-0AA1.jpg
+[Meta] 6AU1 435-0AA00-0AA1 -> lifecycle: ok; description: ok
+[Result] JSON processed: fl10p23 nalievacka winkler.json
+[Result] Rows loaded: 30
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\step7\fl10p23 nalievacka winkler.xlsx
+========================================================================================
+
+========================================================================================
+[Group] 2/2: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> downloading image...
+[Meta] 6AV2 124-0MC01-0AX0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6AV2 124-0MC01-0AX0.jpg
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 131-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 131-6BF00-0BA0.jpg
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 132-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 132-6BF00-0BA0.jpg
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 2; Total JSON files: 3; Excel files created: 3; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 1
+[Status] Groups with JSON files: 1
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+
+========================================================================================
+[Group] 1/1: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/9: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> retrying metadata load...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/9: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/9: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 9
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 1; Total JSON files: 1; Excel files created: 1; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 1
+[Status] Groups with JSON files: 1
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+[Status] Access DB: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\Devices.accdb
+
+========================================================================================
+[Group] 1/1: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/28: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> downloading image...
+[Meta] 6AV2 124-0MC01-0AX0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6AV2 124-0MC01-0AX0.jpg
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 131-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 131-6BF00-0BA0.jpg
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 132-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 132-6BF00-0BA0.jpg
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 10/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 11/28: ET 200SP station_1 (6ES7 512-1DK01-0AB0)
+[Meta] 6ES7 512-1DK01-0AB0 -> loading page...
+[Meta] 6ES7 512-1DK01-0AB0 -> downloading image...
+[Meta] 6ES7 512-1DK01-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 512-1DK01-0AB0.jpg
+[Meta] 6ES7 512-1DK01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 12/28: ET 200SP station_1 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> downloading image...
+[Meta] 6ES7 193-6AR00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 193-6AR00-0AA0.jpg
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 13/28: ET 200SP station_1 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> downloading image...
+[Meta] 6ES7 193-6PA00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 193-6PA00-0AA0.jpg
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 14/28: ET 200SP station_2 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 15/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> downloading image...
+[Meta] 6ES7 134-6HB00-0CA1 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 134-6HB00-0CA1.jpg
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 16/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> downloading image...
+[Meta] 6ES7 135-6HB00-0CA1 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 135-6HB00-0CA1.jpg
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 17/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 18/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 19/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 20/28: ET 200SP station_2 (6ES7 132-6HD00-0BB1)
+[Meta] 6ES7 132-6HD00-0BB1 -> loading page...
+[Meta] 6ES7 132-6HD00-0BB1 -> image not found on page.
+[Meta] 6ES7 132-6HD00-0BB1 -> lifecycle: ok; description: ok
+
+[Status] Device 21/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 22/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 23/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 24/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 25/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 26/28: ET 200SP station_2 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 27/28: ET 200SP station_2 (6ES7 155-6AU00-0CN0)
+[Meta] 6ES7 155-6AU00-0CN0 -> loading page...
+[Meta] 6ES7 155-6AU00-0CN0 -> image not found on page.
+[Meta] 6ES7 155-6AU00-0CN0 -> lifecycle: ok; description: ok
+
+[Status] Device 28/28: ET 200SP station_2 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 28
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+[Result] Access table replaced: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 1; Total JSON files: 1; Excel files created: 1; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 1
+[Status] Groups with JSON files: 1
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+[Status] Access DB: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\Devices.accdb
+
+========================================================================================
+[Group] 1/1: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/28: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> image loaded from cache.
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 10/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 11/28: ET 200SP station_1 (6ES7 512-1DK01-0AB0)
+[Meta] 6ES7 512-1DK01-0AB0 -> image loaded from cache.
+[Meta] 6ES7 512-1DK01-0AB0 -> loading page...
+[Meta] 6ES7 512-1DK01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 12/28: ET 200SP station_1 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 13/28: ET 200SP station_1 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 14/28: ET 200SP station_2 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 15/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 16/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 17/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 18/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 19/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 20/28: ET 200SP station_2 (6ES7 132-6HD00-0BB1)
+[Meta] 6ES7 132-6HD00-0BB1 -> loading page...
+[Meta] 6ES7 132-6HD00-0BB1 -> image not found on page.
+[Meta] 6ES7 132-6HD00-0BB1 -> lifecycle: ok; description: ok
+
+[Status] Device 21/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 22/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 23/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 24/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 25/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 26/28: ET 200SP station_2 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 27/28: ET 200SP station_2 (6ES7 155-6AU00-0CN0)
+[Meta] 6ES7 155-6AU00-0CN0 -> loading page...
+[Meta] 6ES7 155-6AU00-0CN0 -> image not found on page.
+[Meta] 6ES7 155-6AU00-0CN0 -> lifecycle: ok; description: ok
+
+[Status] Device 28/28: ET 200SP station_2 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 28
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+[Result] Access table replaced: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 1; Total JSON files: 1; Excel files created: 1; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> .\src\Devices_Processor\bin\x64\net472\Devices_Processor.exe "collected_components"
+[Status] Input folder: collected_components
+[Status] Scanning group folders for exported JSON files...
+[Status] Groups found: 1
+[Status] Groups with JSON files: 1
+[Status] Excel output root: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels
+[Status] Access DB: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\Devices.accdb
+
+========================================================================================
+[Group] 1/1: tia15
+[Status] JSON files found: 1
+[Status] Group output folder: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15
+
+[Status] Project 1/1: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+
+[Status] Device 1/28: AMC_HMI_1 (6AV2 124-0MC01-0AX0)
+[Meta] 6AV2 124-0MC01-0AX0 -> loading page...
+[Meta] 6AV2 124-0MC01-0AX0 -> downloading image...
+[Meta] 6AV2 124-0MC01-0AX0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6AV2 124-0MC01-0AX0.jpg
+[Meta] 6AV2 124-0MC01-0AX0 -> lifecycle: ok; description: ok
+
+[Status] Device 2/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 131-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 131-6BF00-0BA0.jpg
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 3/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 4/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 5/28: ET 200SP station_1 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 6/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> downloading image...
+[Meta] 6ES7 132-6BF00-0BA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 132-6BF00-0BA0.jpg
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 7/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 8/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 9/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 10/28: ET 200SP station_1 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 11/28: ET 200SP station_1 (6ES7 512-1DK01-0AB0)
+[Meta] 6ES7 512-1DK01-0AB0 -> loading page...
+[Meta] 6ES7 512-1DK01-0AB0 -> downloading image...
+[Meta] 6ES7 512-1DK01-0AB0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 512-1DK01-0AB0.jpg
+[Meta] 6ES7 512-1DK01-0AB0 -> lifecycle: ok; description: ok
+
+[Status] Device 12/28: ET 200SP station_1 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> downloading image...
+[Meta] 6ES7 193-6AR00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 193-6AR00-0AA0.jpg
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 13/28: ET 200SP station_1 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> downloading image...
+[Meta] 6ES7 193-6PA00-0AA0 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 193-6PA00-0AA0.jpg
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 14/28: ET 200SP station_2 (6ES7 131-6BF00-0BA0)
+[Meta] 6ES7 131-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 131-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 131-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 15/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> downloading image...
+[Meta] 6ES7 134-6HB00-0CA1 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 134-6HB00-0CA1.jpg
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 16/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> downloading image...
+[Meta] 6ES7 135-6HB00-0CA1 -> image saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\downloaded_images\6ES7 135-6HB00-0CA1.jpg
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 17/28: ET 200SP station_2 (6ES7 135-6HB00-0CA1)
+[Meta] 6ES7 135-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 135-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 135-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 18/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 19/28: ET 200SP station_2 (6ES7 132-6BF00-0BA0)
+[Meta] 6ES7 132-6BF00-0BA0 -> image loaded from cache.
+[Meta] 6ES7 132-6BF00-0BA0 -> loading page...
+[Meta] 6ES7 132-6BF00-0BA0 -> lifecycle: ok; description: ok
+
+[Status] Device 20/28: ET 200SP station_2 (6ES7 132-6HD00-0BB1)
+[Meta] 6ES7 132-6HD00-0BB1 -> loading page...
+[Meta] 6ES7 132-6HD00-0BB1 -> image not found on page.
+[Meta] 6ES7 132-6HD00-0BB1 -> lifecycle: ok; description: ok
+
+[Status] Device 21/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 22/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 23/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 24/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 25/28: ET 200SP station_2 (6ES7 134-6HB00-0CA1)
+[Meta] 6ES7 134-6HB00-0CA1 -> image loaded from cache.
+[Meta] 6ES7 134-6HB00-0CA1 -> loading page...
+[Meta] 6ES7 134-6HB00-0CA1 -> lifecycle: ok; description: ok
+
+[Status] Device 26/28: ET 200SP station_2 (6ES7 193-6AR00-0AA0)
+[Meta] 6ES7 193-6AR00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6AR00-0AA0 -> loading page...
+[Meta] 6ES7 193-6AR00-0AA0 -> lifecycle: ok; description: ok
+
+[Status] Device 27/28: ET 200SP station_2 (6ES7 155-6AU00-0CN0)
+[Meta] 6ES7 155-6AU00-0CN0 -> loading page...
+[Meta] 6ES7 155-6AU00-0CN0 -> image not found on page.
+[Meta] 6ES7 155-6AU00-0CN0 -> lifecycle: ok; description: ok
+
+[Status] Device 28/28: ET 200SP station_2 (6ES7 193-6PA00-0AA0)
+[Meta] 6ES7 193-6PA00-0AA0 -> image loaded from cache.
+[Meta] 6ES7 193-6PA00-0AA0 -> loading page...
+[Meta] 6ES7 193-6PA00-0AA0 -> lifecycle: ok; description: ok
+[Result] JSON processed: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.json
+[Result] Rows loaded: 28
+[Result] Excel saved: C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector\collected_excels\tia15\FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955.xlsx
+[Result] Access table replaced: FL12P23 Temperirka AASTED AMC1500-5840_03_0001_AMC_STD_V3_955
+========================================================================================
+
+[Status] Processing finished.
+[Summary] Total groups: 1; Total JSON files: 1; Excel files created: 1; Excel files failed: 0
+PS C:\Users\marek\Documents\Auto-PLCs-Compoments-Collector> cd ..
+PS C:\Users\marek\Documents> cd .\Auto_PLCs_Devices_Collector\
+PS C:\Users\marek\Documents\Auto_PLCs_Devices_Collector> .\src\Step7_DevicesExporter\bin\x64\net472\Step7_DevicesExporter.exe "collected_configs"
+[Status] Input folder: collected_configs
+[Status] Looking for STEP7 folder: collected_configs\step7
+[Status] Config files found: 89
+[Status] Export folder: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7
+[Status] Project groups found: 75
+
+========================================================================================
+[Project] 1/75
+[Group] cb05p24 manex rm4 navazovanie bulk
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cb05p24 manex rm4 navazovanie bulk-1-rm4.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cb05p24 manex rm4 navazovanie bulk.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 2/75
+[Group] cb09p24 manex rm5 dopravniky vystup bal.linka
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cb09p24 manex rm5 dopravniky vystup bal.linka-1-rm5.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cb09p24 manex rm5 dopravniky vystup bal.linka.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 3/75
+[Group] cs01p22 form.linka cm275
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cs01p22 form.linka cm275-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|6|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|8|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|9|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|10|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 51
+[Result] DeviceItems merged: 51
+[Result] DeviceItems saved: 51
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cs01p22 form.linka cm275.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 4/75
+[Group] cs02p22 vkladac podloziek
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cs02p22 vkladac podloziek-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cs02p22 vkladac podloziek.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 5/75
+[Group] cy02p24 cokoladove hosp. cm620
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy02p24 cokoladove hosp. cm620-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 15
+[Result] DeviceItems merged: 15
+[Result] DeviceItems saved: 15
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy02p24 cokoladove hosp. cm620.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 6/75
+[Group] cy03p24 nalievacka mlr2
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy03p24 nalievacka mlr2-1-mlr2.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy03p24 nalievacka mlr2.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 7/75
+[Group] cy04p24 nalievacka mlr3
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy04p24 nalievacka mlr3-1-mlr3.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy04p24 nalievacka mlr3.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 8/75
+[Group] cy05p24 nalievacka mlr4
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy05p24 nalievacka mlr4-1-mlr4.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy05p24 nalievacka mlr4.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 9/75
+[Group] cy10p25 temperirka sollich tcn3000
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy10p25 temperirka sollich tcn3000-1-simatic 300.cfg
+[Result] DeviceItems found in config: 9
+[Result] DeviceItems merged: 9
+[Result] DeviceItems saved: 9
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy10p25 temperirka sollich tcn3000.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 10/75
+[Group] cy12p25 temperirka sollich tt3300
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy12p25 temperirka sollich tt3300-1-plc -tcn.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy12p25 temperirka sollich tt3300.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 11/75
+[Group] cy13p24 temperirka sollich tt1400
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy13p24 temperirka sollich tt1400-1-simatic 300.cfg
+[Result] DeviceItems found in config: 9
+[Result] DeviceItems merged: 9
+[Result] DeviceItems saved: 9
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy13p24 temperirka sollich tt1400.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 12/75
+[Group] cy14p24 temperirka tz1000
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: cy14p24 temperirka tz1000-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 3
+[Result] DeviceItems saved: 3
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\cy14p24 temperirka tz1000.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 13/75
+[Group] fb01p23 rotzinger dop. pasy
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fb01p23 rotzinger dop. pasy-1-simatic 300.cfg
+[Result] DeviceItems found in config: 13
+[Result] DeviceItems merged: 13
+[Result] DeviceItems saved: 13
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fb01p23 rotzinger dop. pasy.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 14/75
+[Group] fl01p23 formovacia linka fole620
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fl01p23 formovacia linka fole620-1-main_plc_s7_319.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6ES7 155-6AU01-0BN0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|9|0|0 -> MLFB 6ES7 155-6AU01-0BN0
+[Result] DeviceItems found in config: 67
+[Result] DeviceItems merged: 67
+[Result] DeviceItems saved: 67
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl01p23 formovacia linka fole620.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 15/75
+[Group] fl10p23 nalievacka winkler
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 2
+[Step] Scanning config: fl10p23 nalievacka winkler-1-simatic 300.cfg
+[Result] DeviceItems found in config: 28
+[Step] Scanning config: fl10p23 nalievacka winkler-2-simotion d.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 30
+[Result] DeviceItems saved: 30
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl10p23 nalievacka winkler.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 16/75
+[Group] fl14p23 temperirka sollich tt800 airo
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fl14p23 temperirka sollich tt800 airo-1-simatic 300.cfg
+[Result] DeviceItems found in config: 8
+[Result] DeviceItems merged: 8
+[Result] DeviceItems saved: 8
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl14p23 temperirka sollich tt800 airo.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 17/75
+[Group] fl15p23 temperirka sollich tt2200
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fl15p23 temperirka sollich tt2200-1-plc -tt.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl15p23 temperirka sollich tt2200.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 18/75
+[Group] fl16p23 temperirka sollich tt4700
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fl16p23 temperirka sollich tt4700-1-plc -tt.cfg
+[Result] DeviceItems found in config: 5
+[Result] DeviceItems merged: 5
+[Result] DeviceItems saved: 5
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl16p23 temperirka sollich tt4700.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 19/75
+[Group] fl17p23 cok.hosp. lekos
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: fl17p23 cok.hosp. lekos-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 155-6AR00-0AN0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 36
+[Result] DeviceItems merged: 36
+[Result] DeviceItems saved: 36
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\fl17p23 cok.hosp. lekos.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 20/75
+[Group] hb01p22 dopravne cesty hutt
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: hb01p22 dopravne cesty hutt-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 13
+[Result] DeviceItems merged: 13
+[Result] DeviceItems saved: 13
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\hb01p22 dopravne cesty hutt.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 21/75
+[Group] hu02p22 sollich b5 macaci stroj
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: hu02p22 sollich b5 macaci stroj-1-plc -b5.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\hu02p22 sollich b5 macaci stroj.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 22/75
+[Group] hu03p22 sollich tt1100 tempering machine
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 2
+[Step] Scanning config: hu03p22 sollich tt1100 tempering machine-1-plc -tt.cfg
+[Result] DeviceItems found in config: 6
+[Step] Scanning config: hu03p22 sollich tt1100 tempering machine-2-simatic 300(1).cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 12
+[Result] DeviceItems saved: 12
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\hu03p22 sollich tt1100 tempering machine.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 23/75
+[Group] ivh06p20 5-valec 4 l1
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ivh06p20 5-valec 4 l1-1-m151-8 _profibus.cfg
+[Result] DeviceItems found in config: 11
+[Result] DeviceItems merged: 11
+[Result] DeviceItems saved: 11
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ivh06p20 5-valec 4 l1.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 24/75
+[Group] jb01p22 dopravne pasy k balickam
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: jb01p22 dopravne pasy k balickam-1-naps.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|6|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|8|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|9|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|10|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|12|0|0 -> MLFB 6SL3 040-1MA01-0Axx
+[Result] DeviceItems found in config: 71
+[Result] DeviceItems merged: 71
+[Result] DeviceItems saved: 71
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\jb01p22 dopravne pasy k balickam.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 25/75
+[Group] je01p22 form.linka jensen
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 2
+[Step] Scanning config: je01p22 form.linka jensen-1-form.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|6|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|8|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 25
+[Step] Scanning config: je01p22 form.linka jensen-2-masse.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 29
+[Result] DeviceItems merged: 54
+[Result] DeviceItems saved: 54
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\je01p22 form.linka jensen.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 26/75
+[Group] je05p22 temperirka aasted amc750
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: je05p22 temperirka aasted amc750-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 7
+[Result] DeviceItems merged: 7
+[Result] DeviceItems saved: 7
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\je05p22 temperirka aasted amc750.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 27/75
+[Group] lb27p21 olepovacka pago-b
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: lb27p21 olepovacka pago-b-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 3
+[Result] DeviceItems saved: 3
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\lb27p21 olepovacka pago-b.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 28/75
+[Group] lb28p21 cermex skladacka f27 -37953
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: lb28p21 cermex skladacka f27 -37953-1-f27.cfg
+[Result] DeviceItems found in config: 23
+[Result] DeviceItems merged: 23
+[Result] DeviceItems saved: 23
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\lb28p21 cermex skladacka f27 -37953.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 29/75
+[Group] lb30p21 cermex zatvarac b25 -37955
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: lb30p21 cermex zatvarac b25 -37955-1-bb25.00.cfg
+[Result] DeviceItems found in config: 25
+[Result] DeviceItems merged: 25
+[Result] DeviceItems saved: 25
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\lb30p21 cermex zatvarac b25 -37955.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 30/75
+[Group] ls01p21 form.linka loesch
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ls01p21 form.linka loesch-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 246-0BA22-1Fxx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 246-0BA22-1Fxx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 040-1LA01-0Axx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|6|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|8|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|9|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|12|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|13|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|14|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|15|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 39
+[Result] DeviceItems merged: 39
+[Result] DeviceItems saved: 39
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ls01p21 form.linka loesch.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 31/75
+[Group] ls05p21 zavieckovaci stroj zs510
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ls05p21 zavieckovaci stroj zs510-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 8
+[Result] DeviceItems merged: 8
+[Result] DeviceItems saved: 8
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ls05p21 zavieckovaci stroj zs510.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 32/75
+[Group] ls08p21 temperirka tc1600d
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ls08p21 temperirka tc1600d-1-simatic 300.cfg
+[Result] DeviceItems found in config: 9
+[Result] DeviceItems merged: 9
+[Result] DeviceItems saved: 9
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ls08p21 temperirka tc1600d.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 33/75
+[Group] ls10p21 temperirka tc900d
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ls10p21 temperirka tc900d-1-simatic 300.cfg
+[Result] DeviceItems found in config: 7
+[Result] DeviceItems merged: 7
+[Result] DeviceItems saved: 7
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ls10p21 temperirka tc900d.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 34/75
+[Group] ls11p21 temperirka tc1000b
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ls11p21 temperirka tc1000b-1-plc -ttb.cfg
+[Result] DeviceItems found in config: 7
+[Result] DeviceItems merged: 7
+[Result] DeviceItems saved: 7
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ls11p21 temperirka tc1000b.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 35/75
+[Group] np01p21 solutech - dopravny system linky
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np01p21 solutech - dopravny system linky-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 5
+[Result] DeviceItems merged: 5
+[Result] DeviceItems saved: 5
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np01p21 solutech - dopravny system linky.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 36/75
+[Group] np02p21 concept - zakladac blistrov a pres.hlava
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np02p21 concept - zakladac blistrov a pres.hlava-1-cpu 314c-2dp.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np02p21 concept - zakladac blistrov a pres.hlava.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 37/75
+[Group] np03p21 novapac - zvaracka
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np03p21 novapac - zvaracka-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 24
+[Result] DeviceItems merged: 24
+[Result] DeviceItems saved: 24
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np03p21 novapac - zvaracka.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 38/75
+[Group] np04p21 dienst vkladac do kartonov
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np04p21 dienst vkladac do kartonov-1-simatic 300.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+[Result] DeviceItems found in config: 7
+[Result] DeviceItems merged: 7
+[Result] DeviceItems saved: 7
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np04p21 dienst vkladac do kartonov.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 39/75
+[Group] np05p21 cermex vejarovac bb35 -33446
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np05p21 cermex vejarovac bb35 -33446-1-bb35.00.cfg
+[Result] DeviceItems found in config: 41
+[Result] DeviceItems merged: 41
+[Result] DeviceItems saved: 41
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np05p21 cermex vejarovac bb35 -33446.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 40/75
+[Group] np06p21 cermex kartonovac c211 -33447
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: np06p21 cermex kartonovac c211 -33447-1-c211.cfg
+[Result] DeviceItems found in config: 23
+[Result] DeviceItems merged: 23
+[Result] DeviceItems saved: 23
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\np06p21 cermex kartonovac c211 -33447.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 41/75
+[Group] pp08p21 vkladac naplnenych blistrov rm10
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: pp08p21 vkladac naplnenych blistrov rm10-2-rm20_podusky.cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 3
+[Result] DeviceItems saved: 3
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\pp08p21 vkladac naplnenych blistrov rm10.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 42/75
+[Group] pr02p10 prijem a skladovanie bobov
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: pr02p10 prijem a skladovanie bobov-1-skladovanie.cfg
+[Result] DeviceItems found in config: 10
+[Result] DeviceItems merged: 10
+[Result] DeviceItems saved: 10
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\pr02p10 prijem a skladovanie bobov.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 43/75
+[Group] pr05p10 petzomat
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: pr05p10 petzomat-1-petzomat.cfg
+[Result] DeviceItems found in config: 16
+[Result] DeviceItems merged: 16
+[Result] DeviceItems saved: 16
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\pr05p10 petzomat.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 44/75
+[Group] psi02p7b sila 17-19-1-n-cpu151
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: psi02p7b sila 17-19-1-n-cpu151-8-rw1-3.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|10|0|0 -> MLFB 6SL3 244-0BA20-1FA0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6SL3 244-0BA20-1FA0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|13|0|0 -> MLFB 6SL3 244-0BA20-1FA0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|14|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|15|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|16|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 78
+[Result] DeviceItems merged: 78
+[Result] DeviceItems saved: 78
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\psi02p7b sila 17-19-1-n-cpu151.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 45/75
+[Group] rm10_pp08p21 vkladac naplnenych blistrov rm10
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: rm10_pp08p21 vkladac naplnenych blistrov rm10-1-vkladani blistru.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\rm10_pp08p21 vkladac naplnenych blistrov rm10.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 46/75
+[Group] rmpp08p21 vkladac naplnenych blistrov rm10
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: rmpp08p21 vkladac naplnenych blistrov rm10-3-30_vkladani vika.cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 3
+[Result] DeviceItems saved: 3
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\rmpp08p21 vkladac naplnenych blistrov rm10.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 47/75
+[Group] schlad plc
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 4
+[Step] Scanning config: schlad plc-1-7 300 - 1 - mar2.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6ES7 155-6AU01-0BN0
+[Result] DeviceItems found in config: 26
+[Step] Scanning config: schlad plc-2-7 300 - 2 - mar3.cfg
+[Result] DeviceItems found in config: 18
+[Step] Scanning config: schlad plc-3-7 300 - 3 - mar4.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6ES7 155-6AU01-0BN0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6ES7 153-4AA01-0XB0
+[Result] DeviceItems found in config: 29
+[Step] Scanning config: schlad plc-4-7 300 - 4 - ost6.cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 76
+[Result] DeviceItems saved: 76
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\schlad plc.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 48/75
+[Group] sg02p22 balicka sapal2 dpn6
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: sg02p22 balicka sapal2 dpn6-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 040-0JA01-0Axx
+[Result] DeviceItems found in config: 14
+[Result] DeviceItems merged: 14
+[Result] DeviceItems saved: 14
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\sg02p22 balicka sapal2 dpn6.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 49/75
+[Group] simapr07p12 debakterizator
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simapr07p12 debakterizator-2-tic 300(prazice).cfg
+[Result] DeviceItems found in config: 33
+[Result] DeviceItems merged: 33
+[Result] DeviceItems saved: 33
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simapr07p12 debakterizator.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 50/75
+[Group] simatpr07p12 debakterizator
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simatpr07p12 debakterizator-1-ic 300(debakter).cfg
+[Result] DeviceItems found in config: 18
+[Result] DeviceItems merged: 18
+[Result] DeviceItems saved: 18
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simatpr07p12 debakterizator.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 51/75
+[Group] simjb05p22 zatvaracka boma c.1
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simjb05p22 zatvaracka boma c.1-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simjb05p22 zatvaracka boma c.1.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 52/75
+[Group] simjb06p22 zatvaracka boma c.2
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simjb06p22 zatvaracka boma c.2-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simjb06p22 zatvaracka boma c.2.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 53/75
+[Group] simjb07p22 zatvaracka boma c.3
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simjb07p22 zatvaracka boma c.3-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 4
+[Result] DeviceItems merged: 4
+[Result] DeviceItems saved: 4
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simjb07p22 zatvaracka boma c.3.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 54/75
+[Group] simvh31p20 conche 1
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simvh31p20 conche 1-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simvh31p20 conche 1.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 55/75
+[Group] simvh32p20 conche 2
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simvh32p20 conche 2-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simvh32p20 conche 2.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 56/75
+[Group] simvh34p20 conche 4
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simvh34p20 conche 4-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simvh34p20 conche 4.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 57/75
+[Group] simvh35p20 conche 5
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: simvh35p20 conche 5-1-atic 300-station.cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\simvh35p20 conche 5.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 58/75
+[Group] sm01p22 smp mixer
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: sm01p22 smp mixer-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 17
+[Result] DeviceItems merged: 17
+[Result] DeviceItems saved: 17
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\sm01p22 smp mixer.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 59/75
+[Group] sut02p21 mar2
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 4
+[Step] Scanning config: sut02p21 mar2-1-7 300 - 1 - mar2.cfg
+[Result] DeviceItems found in config: 18
+[Step] Scanning config: sut02p21 mar2-2-7 300 - 2 - mar3.cfg
+[Result] DeviceItems found in config: 18
+[Step] Scanning config: sut02p21 mar2-3-7 300 - 3 - mar4.cfg
+[Result] DeviceItems found in config: 18
+[Step] Scanning config: sut02p21 mar2-4-7 300 - 4 - ost6.cfg
+[Result] DeviceItems found in config: 3
+[Result] DeviceItems merged: 57
+[Result] DeviceItems saved: 57
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\sut02p21 mar2.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 60/75
+[Group] um01p21 umyvacka foriem
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: um01p21 umyvacka foriem-1-simatic 300.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\um01p21 umyvacka foriem.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 61/75
+[Group] ut07p80 cov02
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: ut07p80 cov02-1-cov.cfg
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ut07p80 cov02.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 62/75
+[Group] ut08p6b ost1
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 3
+[Step] Scanning config: ut08p6b ost1-1-kot_ost3.cfg
+[Result] DeviceItems found in config: 17
+[Step] Scanning config: ut08p6b ost1-2-ost1.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 30
+[Step] Scanning config: ut08p6b ost1-3-ost2.cfg
+[Result] DeviceItems found in config: 11
+[Result] DeviceItems merged: 58
+[Result] DeviceItems saved: 58
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ut08p6b ost1.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 63/75
+[Group] ut15p2b ost4
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 3
+[Step] Scanning config: ut15p2b ost4-1-ost2.cfg
+[Result] DeviceItems found in config: 10
+[Step] Scanning config: ut15p2b ost4-2-ost4_dtb1.cfg
+[Result] DeviceItems found in config: 10
+[Step] Scanning config: ut15p2b ost4-3-simatic 300(1).cfg
+[Result] DeviceItems found in config: 1
+[Result] DeviceItems merged: 21
+[Result] DeviceItems saved: 21
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\ut15p2b ost4.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 64/75
+[Group] va01p23 davkovanie tuku
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: va01p23 davkovanie tuku-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 1
+[Result] DeviceItems merged: 1
+[Result] DeviceItems saved: 1
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\va01p23 davkovanie tuku.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 65/75
+[Group] va01p23 davkovanie tuku_2
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: va01p23 davkovanie tuku_2-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 1
+[Result] DeviceItems merged: 1
+[Result] DeviceItems saved: 1
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\va01p23 davkovanie tuku_2.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 66/75
+[Group] va02p23 vyroba fondanu
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: va02p23 vyroba fondanu-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 6
+[Result] DeviceItems merged: 6
+[Result] DeviceItems saved: 6
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\va02p23 vyroba fondanu.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 67/75
+[Group] vh33p20 conche 3
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh33p20 conche 3-1-simatic 300(1).cfg
+[Result] DeviceItems found in config: 2
+[Result] DeviceItems merged: 2
+[Result] DeviceItems saved: 2
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh33p20 conche 3.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 68/75
+[Group] vh36p20 conche 6-1-pn-cpu151
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh36p20 conche 6-1-pn-cpu151-8-co6.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 44
+[Result] DeviceItems merged: 44
+[Result] DeviceItems saved: 44
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh36p20 conche 6-1-pn-cpu151.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 69/75
+[Group] vh37p20 conche 7-1-pn-cpu151
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh37p20 conche 7-1-pn-cpu151-8-co7.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 244-0BB12-1FAx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|11|0|0 -> MLFB 6SL3 244-0BA20-1FA0
+[Result] DeviceItems found in config: 31
+[Result] DeviceItems merged: 31
+[Result] DeviceItems saved: 31
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh37p20 conche 7-1-pn-cpu151.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 70/75
+[Group] vh38p20 conche 8-1-pn-cpu151
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh38p20 conche 8-1-pn-cpu151-8-co8.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 29
+[Result] DeviceItems merged: 29
+[Result] DeviceItems saved: 29
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh38p20 conche 8-1-pn-cpu151.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 71/75
+[Group] vh39p20 conche 9-1-pn-cpu151
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh39p20 conche 9-1-pn-cpu151-8-co9.cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6ES7 151-3AA23-0AB0
+[Result] DeviceItems found in config: 29
+[Result] DeviceItems merged: 29
+[Result] DeviceItems saved: 29
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh39p20 conche 9-1-pn-cpu151.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 72/75
+[Group] vh40p20 reimelt
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vh40p20 reimelt-1-plc.cfg
+[Result] DeviceItems found in config: 36
+[Result] DeviceItems merged: 36
+[Result] DeviceItems saved: 36
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh40p20 reimelt.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 73/75
+[Group] vh42p20 pasta zh011 zh012 a obracac sudov
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 2
+[Step] Scanning config: vh42p20 pasta zh011 zh012 a obracac sudov-1-hever.cfg
+[Result] DeviceItems found in config: 13
+[Step] Scanning config: vh42p20 pasta zh011 zh012 a obracac sudov-2-zasobniky.cfg
+[Result] DeviceItems found in config: 28
+[Result] DeviceItems merged: 41
+[Result] DeviceItems saved: 41
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vh42p20 pasta zh011 zh012 a obracac sudov.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 74/75
+[Group] vk01p40 viking-masek skladacka kartonov
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vk01p40 viking-masek skladacka kartonov-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|8|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 7
+[Result] DeviceItems merged: 7
+[Result] DeviceItems saved: 7
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vk01p40 viking-masek skladacka kartonov.json
+[Status] Project finished.
+========================================================================================
+
+
+========================================================================================
+[Project] 75/75
+[Group] vk03p40 gastropack skladacka a zatvaracka
+----------------------------------------------------------------------------------------
+[Step] Config files in group: 1
+[Step] Scanning config: vk03p40 gastropack skladacka a zatvaracka-1-simatic 300(1).cfg
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|1|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|2|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|3|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|4|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|5|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|6|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+        [SKIPPED] Duplicate location: IOSUBSYSTEM|100|7|0|0 -> MLFB 6SL3 210-1KExx-xxFx
+[Result] DeviceItems found in config: 15
+[Result] DeviceItems merged: 15
+[Result] DeviceItems saved: 15
+[Result] JSON: C:\Users\marek\Documents\Auto_PLCs_Devices_Collector\collected_components\step7\vk03p40 gastropack skladacka a zatvaracka.json
+[Status] Project finished.
+========================================================================================
+
+[Status] All projects processed.
+[Summary] Successful projects: 75; Projects with errors: 0; Skipped configs: 0

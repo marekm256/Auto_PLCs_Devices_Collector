@@ -1,0 +1,20 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 314C-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 314-6CG03-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI8\/DO8xDC24V\/0",
+    "Firmware": "5A",
+    "OrderNumber": "6ES7 323-1BH01-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI8\/DO8xDC24V\/0",
+    "Firmware": "5A",
+    "OrderNumber": "6ES7 323-1BH01-0AA0"
+  }
+]

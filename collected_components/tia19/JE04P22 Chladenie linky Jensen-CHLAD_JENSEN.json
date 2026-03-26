@@ -1,0 +1,32 @@
+[
+  {
+    "Device": "jensen-chaldenie-mtp",
+    "DeviceItem": "jensen-chaldenie-mtp",
+    "Firmware": "19.0.0.0",
+    "OrderNumber": "6AV2 128-3GB06-0AXx"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI8 x 13 bits_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 231-4HF30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AQ4 x 14 bits_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 232-4HD30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "Jensen-chladenie-plc",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 214-1AE30-0XB0"
+  }
+]

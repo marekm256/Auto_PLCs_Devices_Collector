@@ -1,0 +1,92 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "AO8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HF00-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16 x 24VDC ST V0.0",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16 x 24VDC ST V0.0",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16 x 24VDC ST V0.0",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DQ16 x 24VDC\/0.5A ST V0~",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DQ16 x 24VDC\/0.5A ST V0~",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "IM155-6 DP HF V4.2",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6BU01-0CN0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "PS 307 2A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1BA00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "Server module V1.1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  }
+]

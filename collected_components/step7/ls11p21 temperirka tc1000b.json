@@ -1,0 +1,44 @@
+[
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "AI4\/AO2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 334-0KE00-0AB0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "AI8xRTD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7PF01-0AB0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "cp343-lean",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-6CF03-0AB0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "plc ttb",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  }
+]

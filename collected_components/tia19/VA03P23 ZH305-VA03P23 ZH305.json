@@ -1,0 +1,20 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 1x12BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HA30-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "ZH305_PLC",
+    "Firmware": "4.1",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "ZH305-HMI",
+    "DeviceItem": "ZH305-HMI",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  }
+]

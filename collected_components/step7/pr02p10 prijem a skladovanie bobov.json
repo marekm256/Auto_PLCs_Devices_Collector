@@ -1,0 +1,62 @@
+[
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF02-0AB0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "CPU 317-2 PN\/DP",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 317-2EK14-0AB0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "skladovanie",
+    "DeviceItem": "PS 307 2A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1BA00-0AA0"
+  }
+]

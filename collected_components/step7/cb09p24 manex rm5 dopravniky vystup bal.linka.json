@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "rm5",
+    "DeviceItem": "CP 343-1 Lean",
+    "Firmware": "1.0",
+    "OrderNumber": "6GK7 343-1CX00-0XE0"
+  },
+  {
+    "Device": "rm5",
+    "DeviceItem": "CPU 314",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 314-1AG14-0AB0"
+  },
+  {
+    "Device": "rm5",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "rm5",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  }
+]

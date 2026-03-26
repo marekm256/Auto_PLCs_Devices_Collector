@@ -1,0 +1,50 @@
+[
+  {
+    "Device": "PLC",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "PLC",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "Slot 02, CP 1542SP-1",
+    "Firmware": "2.1",
+    "OrderNumber": "6GK7 542-6UX00-0XE0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "Slot 03, DI 8x24VDC ST",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "Slot 04, DI 8x24VDC ST",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "Slot 05, DQ 16x24VDC\/0.5A ST",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  }
+]

@@ -1,0 +1,248 @@
+[
+  {
+    "Device": "hever",
+    "DeviceItem": "1 SSI",
+    "Firmware": "2.0.0",
+    "OrderNumber": "6ES7 138-4DB03-0AB0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "IM151-8 PN\/DP CPU",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "hever",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB01-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2AI I 4WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "2DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BB01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "8DO DC24V\/0.5A HF",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "DP",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4HA00-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "IM151-8 PN\/DP CPU",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "zasobniky",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  }
+]

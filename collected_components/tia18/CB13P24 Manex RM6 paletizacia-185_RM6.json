@@ -1,0 +1,80 @@
+[
+  {
+    "Device": "HMI_1",
+    "DeviceItem": "HMI_1",
+    "Firmware": "18.0.0.0",
+    "OrderNumber": "6AV2 128-3KB06-0AXx"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "AI2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KB02-0AB0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "CP 343-1_1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 315-2AH14-0AB0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "RM6",
+    "DeviceItem": "UR",
+    "Firmware": "",
+    "OrderNumber": "6ES7 390-1***0-0AA0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "U1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "U2",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "U3",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "U4",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "ZS006-PLC",
+    "Firmware": "4.4",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  }
+]

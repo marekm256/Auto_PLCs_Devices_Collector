@@ -1,0 +1,92 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 315-2 PN\/DP",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 315-2EH14-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "FM 352 CAM SAR",
+    "Firmware": "",
+    "OrderNumber": "6ES7 352-1AH02-0AE0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "FM 352 CAM SVD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 352-1AH02-0AE0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m15",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m2",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m3",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m4",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m5",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "gastropack-g120c-m6",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  }
+]

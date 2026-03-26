@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DQ 8xRelay_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 222-1HF32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "ZH009-PLC",
+    "Firmware": "4.1",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "ZH009-HMI",
+    "DeviceItem": "ZH009-HMI",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  }
+]

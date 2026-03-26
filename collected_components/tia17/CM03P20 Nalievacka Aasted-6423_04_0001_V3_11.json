@@ -1,0 +1,362 @@
+[
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_D1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0CN0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_K1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_K2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_K3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_K4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "DEP1_A51_K5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A51_D1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_D1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0CN0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K10",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K11",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K12",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 138-6CG00-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K13",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 137-6BD00-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K14",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K16",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K17",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "DEP1_A52_K8",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_5",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "F-DI 8x24VDC HF_6",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "DEP1_A52_D1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_D1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0CN0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6HD01-0BB1"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "DEP1_A84_K6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6HD01-0BB1"
+  },
+  {
+    "Device": "DEP1_A84_D1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "DEP1_AGI1_T1",
+    "DeviceItem": "DEP1_AGI1_T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "DEP1_OFF2_T1",
+    "DeviceItem": "DEP1_OFF2_T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "DEP1_SHH1_T1",
+    "DeviceItem": "DEP1_SHH1_T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "DEP1_SHH2_T1",
+    "DeviceItem": "DEP1_SHH2_T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "Drive Controller_1",
+    "DeviceItem": "DEP1_A71_K1_PLC",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 615-4DF10-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_D1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0CN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K5",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K6",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K7",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DEP1_A53_K8",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "cm1200fl-plc.pn1",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 515-2FM02-0AB0"
+  },
+  {
+    "Device": "GSD device_3",
+    "DeviceItem": "MC-ENCODER-Singleturn-13Bit",
+    "Firmware": "1.0",
+    "OrderNumber": "6FX2001-5xN13"
+  },
+  {
+    "Device": "HMI_ASC",
+    "DeviceItem": "HMI_ASC",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "SCALANCE XB-200",
+    "DeviceItem": "DEP1_A91_T1",
+    "Firmware": "4.3",
+    "OrderNumber": "6GK5 208-0BA00-2AB2"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "VIM1_T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS S_1",
+    "DeviceItem": "DEP1_A71_K1",
+    "Firmware": "5.2.3",
+    "OrderNumber": "6ES7615-xDS1x-0xxx"
+  }
+]

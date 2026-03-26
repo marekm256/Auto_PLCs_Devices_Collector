@@ -1,0 +1,218 @@
+[
+  {
+    "Device": "plc",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF02-0AB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF02-0AB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "Chocolate",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "CP 342-5",
+    "Firmware": "6.0",
+    "OrderNumber": "6GK7 342-5DA03-0XE0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "ESP2.1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "Fondant",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "Milk",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "plc",
+    "DeviceItem": "Program IHS SK",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 314-6EH04-0AB0"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "Device": "CM1200FL-PC",
+    "DeviceItem": "HMI_RT_1",
+    "Firmware": "18.0.0.1",
+    "OrderNumber": "6AV2 155-xxxxx-xxxx"
+  },
+  {
+    "Device": "CM1200FL-PC",
+    "DeviceItem": "IE general_1",
+    "Firmware": "SW V8.2 ...",
+    "OrderNumber": "IE_CP"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 2xI 2-\/4-wire ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GB00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xRTD\/TC 2-,3-,4-wire HF_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 134-6JD00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "CM1200FL-IM1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_7",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_3",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DQ 4x24VDC\/2A PM HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_1",
+    "DeviceItem": "CM1200FL-PLC",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 515-2FM02-0AB0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_3",
+    "DeviceItem": "AI 8xU\/I\/R\/RTD BA_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 531-7QF00-0AB0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_3",
+    "DeviceItem": "CM1200CH-PLC",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 511-1AK02-0AB0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_3",
+    "DeviceItem": "DI 32x24VDC BA_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 521-1BL10-0AA0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_3",
+    "DeviceItem": "DQ 32x24VDC\/0.5A BA_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 522-1BL10-0AA0"
+  },
+  {
+    "Device": "SCALANCE XB-200_1",
+    "DeviceItem": "CM1200FL-XB208",
+    "Firmware": "4.2",
+    "OrderNumber": "6GK5 208-0BA00-2AB2"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "CM1200FL-2GF1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_10",
+    "DeviceItem": "CM1200FL-3GF6",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "CM1200FL-2GF2",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "CM1200FL-3GF1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  },
+  {
+    "Device": "SINAMICS G_6",
+    "DeviceItem": "CM1200FL-3GF4",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  },
+  {
+    "Device": "SINAMICS G_7",
+    "DeviceItem": "CM1200FL-3GF2",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_8",
+    "DeviceItem": "CM1200FL-3GF3",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS G_9",
+    "DeviceItem": "CM1200FL-3GF5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  },
+  {
+    "Device": "SINAMICS S",
+    "DeviceItem": "CM1200FL-1GS1",
+    "Firmware": "5.2.3",
+    "OrderNumber": "6SL3040-1MA01-0Axx"
+  }
+]

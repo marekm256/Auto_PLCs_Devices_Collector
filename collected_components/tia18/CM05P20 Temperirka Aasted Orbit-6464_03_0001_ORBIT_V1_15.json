@@ -1,0 +1,164 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K1 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K2 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K3 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K4 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K5 8DO",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K6 8DO",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "ORBIT_PLC",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K1 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K10 8DO",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K11 4xAI RTD",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 134-6JD00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K15 4AO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K16 4AO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K2 8DO",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K3 4RO",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6HD01-0BB1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K4 4AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K5 4AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K6 4AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K7 4AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K8 4AO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K9 8DI",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "External_IO",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ORBIT_HMI",
+    "DeviceItem": "ORBIT_HMI",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "MASS_PUMP",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE17-5AF1"
+  }
+]

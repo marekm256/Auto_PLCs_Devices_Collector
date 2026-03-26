@@ -1,0 +1,62 @@
+[
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "pp-spodky-plc",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD-Geraet_2",
+    "DeviceItem": "pp-spodky-40-B1",
+    "Firmware": "2.2.x",
+    "OrderNumber": "6FX2001-5xN13"
+  },
+  {
+    "Device": "pp-spodky-ktp",
+    "DeviceItem": "pp-spodky-ktp",
+    "Firmware": "15.1.0.0",
+    "OrderNumber": "6AV2 123-2GB03-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "pp-spodky-u1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  }
+]

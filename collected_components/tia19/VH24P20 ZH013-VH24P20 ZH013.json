@@ -1,0 +1,44 @@
+[
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 231-4HD30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8 x 24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 221-1BF30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8 x 24VDC_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 221-1BF30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8\/DQ8 x 24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-1BH30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8\/DQ8 x 24VDC_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-1BH30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "ZH013-PLC",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 215-1AG31-0XB0"
+  },
+  {
+    "Device": "ZH013-HMI",
+    "DeviceItem": "ZH013-HMI",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AA11-3AX0"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "AI 2xU\/I 2-,4-wire HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "AI 4xRTD\/TC 2-,3-,4-wire HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6JD00-0CA1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 8x24VDC BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 8x24VDC\/0.5A BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "l2rr-cpu",
+    "Firmware": "2.6",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "l2rr-op",
+    "DeviceItem": "l2rr-op",
+    "Firmware": "15.1.0.0",
+    "OrderNumber": "6AV2 124-0JC01-0AX0"
+  }
+]

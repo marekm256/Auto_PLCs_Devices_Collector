@@ -1,0 +1,98 @@
+[
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "AI 8xI 2-,4-wire BA_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_5",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DI 16x24VDC ST_6",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "KAMA-PLC",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "PROFINET BusAdapter CU",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_1",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "KAMA-HMI",
+    "DeviceItem": "KAMA-HMI",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2JB03-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "KAMA-3GF3",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "KAMA-3GF4",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "KAMA-3GF5",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "KAMA-3GF6",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  }
+]

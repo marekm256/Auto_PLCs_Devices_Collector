@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "MC-ENCODER-Singleturn-13Bit",
+    "Firmware": "1.0",
+    "OrderNumber": "6FX2001-5xN13"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 8\/DQ 8x24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-1BH30-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "sig-3_cpu1214c",
+    "Firmware": "4.5",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "SCALANCE XB-200",
+    "DeviceItem": "Switch_1",
+    "Firmware": "4.3",
+    "OrderNumber": "6GK5 208-0BA00-2AB2"
+  },
+  {
+    "Device": "sig-3-ktp700",
+    "DeviceItem": "sig-3-ktp700",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2GB03-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "G120C_USS_MB",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE14-3AB1"
+  }
+]

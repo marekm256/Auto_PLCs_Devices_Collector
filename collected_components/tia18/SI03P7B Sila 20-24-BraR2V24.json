@@ -1,0 +1,458 @@
+[
+  {
+    "Device": "HMI-TP1200-RW2",
+    "DeviceItem": "HMI-TP1200-RW2",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_6",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2\/4AI x RTD ST_7",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB51-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AI x I 2WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AI x I 4WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AI x I 4WIRE ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AI x I 4WIRE ST_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AI x I 4WIRE ST_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2AO x I HF_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4MB02-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2RO x NO 24\/230V \/ 5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4HB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2RO x NO 24\/230V \/ 5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4HB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2RO x NO 24\/230V \/ 5A_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4HB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2RO x NO 24\/230V \/ 5A_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4HB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "2RO x NO 24\/230V \/ 5A_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4HB01-0AB0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_10",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_11",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_12",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_13",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_14",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_15",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_16",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_17",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_18",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_19",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_20",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_21",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_22",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_23",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_6",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_7",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_8",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DI x DC24V ST_9",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_6",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_7",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_8",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "4DO x DC24V \/ 0,5A ST_9",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "8DI x DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "8DI x DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "8DI x DC24V_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "8DO x DC24V \/ 0,5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "PM-E DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "PM-E DC24V_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "IDCT1-10-PLC",
+    "DeviceItem": "PN-CPU151-8-RW2",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "sila20m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "sila21m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "sila22m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "sila23m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "sila24m1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS-Pumpe1.09",
+    "DeviceItem": "SINAMICS-Pumpe1.09",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE23-2AF1"
+  },
+  {
+    "Device": "SINAMICS-Pumpe4.09",
+    "DeviceItem": "SINAMICS-Pumpe4.09",
+    "Firmware": "4.5",
+    "OrderNumber": "6SL3210-1KE23-2AF1"
+  },
+  {
+    "Device": "SINAMICS-Pumpe5.09",
+    "DeviceItem": "SINAMICS-Pumpe5.09",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_1",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_2",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_3",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_4",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_5",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_6",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_7",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "DS1-x_8",
+    "Firmware": "",
+    "OrderNumber": "3RK1 301-xxB00-0AA2"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "PM-D DC24V_1",
+    "Firmware": "",
+    "OrderNumber": "3RK1 903-0BA00"
+  },
+  {
+    "Device": "SLAVE2-EHZ-RW2",
+    "DeviceItem": "SLAVE2-EHZ-RW2",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  }
+]

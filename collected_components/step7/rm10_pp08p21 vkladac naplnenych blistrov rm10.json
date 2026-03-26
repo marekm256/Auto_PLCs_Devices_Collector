@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "vkladani blistru",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.6",
+    "OrderNumber": "6ES7 313-6CF03-0AB0"
+  },
+  {
+    "Device": "vkladani blistru",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  },
+  {
+    "Device": "vkladani blistru",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL80-0AA0"
+  },
+  {
+    "Device": "vkladani blistru",
+    "DeviceItem": "DO8xDC24V\/2A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BF01-0AA0"
+  }
+]

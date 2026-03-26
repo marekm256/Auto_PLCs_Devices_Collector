@@ -1,0 +1,176 @@
+[
+  {
+    "Device": "30_HMI_1",
+    "DeviceItem": "30_HMI_1",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0QC02-0AX1"
+  },
+  {
+    "Device": "30_HMI_2",
+    "DeviceItem": "30_HMI_1",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0QC02-0AX1"
+  },
+  {
+    "Device": "30_M_047",
+    "DeviceItem": "30_M_047",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "30_M_049",
+    "DeviceItem": "30_M_049",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  },
+  {
+    "Device": "30_M_051",
+    "DeviceItem": "30_M_051",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE15-8AF2"
+  },
+  {
+    "Device": "30_M_106",
+    "DeviceItem": "30_M_106",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "30_M_117",
+    "DeviceItem": "30_M_117",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE15-8AF2"
+  },
+  {
+    "Device": "30_M_130",
+    "DeviceItem": "30_M_130",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "30_M_155",
+    "DeviceItem": "30_M_155",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  },
+  {
+    "Device": "30_M_180",
+    "DeviceItem": "30_M_180",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "30_ANALOGUE",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 155-6AR00-0AN0"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_3",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "Analogue",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "30_PLC",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 511-1AK02-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DI 32x24VDC HF_1",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DI 32x24VDC HF_2",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DI 32x24VDC HF_3",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DI 32x24VDC HF_4",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DQ 32x24VDC\/0.5A HF_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 522-1BL01-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DQ 32x24VDC\/0.5A HF_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 522-1BL01-0AB0"
+  },
+  {
+    "Device": "PLC",
+    "DeviceItem": "DQ 32x24VDC\/0.5A HF_3",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 522-1BL01-0AB0"
+  },
+  {
+    "Device": "SCALANCE X005",
+    "DeviceItem": "30_NET_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6GK5 008-0BA10-1AB2"
+  },
+  {
+    "Device": "SCALANCE XC-200",
+    "DeviceItem": "30_NET",
+    "Firmware": "4.2",
+    "OrderNumber": "6GK5 208-0BA00-2AC2"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "30_M_071",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE11-8AF2"
+  }
+]

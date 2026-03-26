@@ -1,0 +1,32 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  }
+]

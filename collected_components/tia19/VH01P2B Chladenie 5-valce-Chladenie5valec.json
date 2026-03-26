@@ -1,0 +1,104 @@
+[
+  {
+    "Device": "chlad-5valec-ktp",
+    "DeviceItem": "chlad-5valec-ktp",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2JB03-0AX0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xRTD\/TC 2-\/3-\/4-wire HF_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 134-6JD00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 8xI 2-,4-wire BA_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 8xI 2-,4-wire BA_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 2xI ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6GB00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "chlad-5valec-cpu",
+    "Firmware": "2.5",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "chlad-5valec-gs01",
+    "Firmware": "4.7.9",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "chlad-5valec-gs02",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "chlad-5valec-gs03",
+    "Firmware": "4.7.9",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "chlad-5valec-gs04",
+    "Firmware": "4.7.6",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "chlad-5valec-gs07",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  }
+]

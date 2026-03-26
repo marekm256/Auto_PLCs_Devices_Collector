@@ -1,0 +1,44 @@
+[
+  {
+    "Device": "DieselAgregat-HMI",
+    "DeviceItem": "DieselAgregat-HMI",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DieselAgregat-CPU",
+    "Firmware": "3.1",
+    "OrderNumber": "6ES7 510-1DK03-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  }
+]

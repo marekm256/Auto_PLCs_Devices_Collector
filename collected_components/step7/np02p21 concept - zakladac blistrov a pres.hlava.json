@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "CP 342-2",
+    "Firmware": "",
+    "OrderNumber": "6GK7 342-2AH00-0XA0"
+  },
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "CP 342-2",
+    "Firmware": "",
+    "OrderNumber": "6GK7 342-2AH00-0XA0"
+  },
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "CPU 314C-2 DP",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 314-6CF00-0AB0"
+  },
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "cpu 314c2dp",
+    "DeviceItem": "smallshape-concept-343-1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  }
+]

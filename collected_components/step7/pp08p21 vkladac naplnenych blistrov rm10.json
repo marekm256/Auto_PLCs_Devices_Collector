@@ -1,0 +1,20 @@
+[
+  {
+    "Device": "rm20_podusky",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-6CE01-0AB0"
+  },
+  {
+    "Device": "rm20_podusky",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  },
+  {
+    "Device": "rm20_podusky",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  }
+]

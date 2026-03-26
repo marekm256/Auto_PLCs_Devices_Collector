@@ -1,0 +1,236 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "sila25-s0",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 510-1SJ01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S10",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S11",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S12",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S13",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S14",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S15",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S16",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S17",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S18",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S19",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S4",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S7",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S8",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S9",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "sila25-s0.1",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 155-6AU00-0CN0"
+  },
+  {
+    "Device": "sila25-33a1",
+    "DeviceItem": "sila25-33a1",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 124-0QC02-0AX1"
+  },
+  {
+    "Device": "sila25-34a1",
+    "DeviceItem": "sila25-34a1",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 124-0QC13-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "sila25-204u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "sila25-205u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "sila25-206u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE23-3ALx"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "sila25-201u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "sila25-202u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_6",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_6",
+    "DeviceItem": "sila25-203u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  }
+]

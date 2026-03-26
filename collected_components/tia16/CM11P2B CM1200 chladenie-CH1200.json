@@ -1,0 +1,122 @@
+[
+  {
+    "Device": "cm1200chlad-tp",
+    "DeviceItem": "cm1200chlad-tp",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_3",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_5",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_6",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_7",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "cm1200chlad-cpu",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "cm1200chlad-gf1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "PM240 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3224-0BE31-1AA0"
+  }
+]

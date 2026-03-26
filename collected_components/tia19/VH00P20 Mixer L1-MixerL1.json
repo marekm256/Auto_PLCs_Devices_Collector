@@ -1,0 +1,146 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DI 8x24VDC HF_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-DQ 4x24VDC\/2A PM HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-RQ 1x24..48VDC\/24..230VAC\/5A_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6RA00-0BF0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "F-RQ 1x24..48VDC\/24..230VAC\/5A_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6RA00-0BF0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Mixer-L1-PLC",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "TM SIWAREX WP351_1",
+    "Firmware": "1.0",
+    "OrderNumber": "7MH4 138-6BA00-0CU0"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "plc-reimelt",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 314-6EH04-0AB0"
+  },
+  {
+    "Device": "Mixer-L1-HMI",
+    "DeviceItem": "Mixer-L1-HMI",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0JC01-0AX0"
+  },
+  {
+    "Device": "Mixer-L1-M1",
+    "DeviceItem": "Mixer-L1-M1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE28-4UF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "Mixer-L1-M4",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  }
+]

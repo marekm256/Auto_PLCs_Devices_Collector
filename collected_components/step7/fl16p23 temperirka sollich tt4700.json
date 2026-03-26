@@ -1,0 +1,32 @@
+[
+  {
+    "Device": "plc tt",
+    "DeviceItem": "AI4\/AO2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 334-0KE00-0AB0"
+  },
+  {
+    "Device": "plc tt",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF00-0AB0"
+  },
+  {
+    "Device": "plc tt",
+    "DeviceItem": "CP 343-1 Lean",
+    "Firmware": "2.2",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "plc tt",
+    "DeviceItem": "CPU 313C-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-6CF03-0AB0"
+  },
+  {
+    "Device": "plc tt",
+    "DeviceItem": "DI16\/DO16x24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 323-1BL00-0AA0"
+  }
+]

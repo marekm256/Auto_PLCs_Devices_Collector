@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits \/ AQ2 x 14 bits_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 234-4HE32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits \/ AQ2 x 14 bits_2",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 234-4HE32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "CM 1241 (RS422\/485)_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 241-1CH32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "CM 1241 (RS422\/485)_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 241-1CH32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "OST7",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 214-1AG31-0XB0"
+  }
+]

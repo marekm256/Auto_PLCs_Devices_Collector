@@ -1,0 +1,128 @@
+[
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "2AO x U ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_6",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_7",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_8",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_9",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PLC_1",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PM-E 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PM-E 24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "PC-System_1",
+    "DeviceItem": "PC-System_1",
+    "Firmware": "",
+    "OrderNumber": "6AV7240-xAxxx-xxxx"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "nove-smp-290m2",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "nove-smp-224m1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  }
+]

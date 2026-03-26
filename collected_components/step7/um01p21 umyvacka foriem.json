@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "AI8xRTD",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7PF00-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO16xRel. AC120V\/230V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1HH01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO16xRel. AC120V\/230V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1HH01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "PS 307 5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1EA00-0AA0"
+  }
+]

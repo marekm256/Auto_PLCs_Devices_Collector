@@ -1,0 +1,374 @@
+[
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "2AI x I 4WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "2AI x I 4WIRE ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_4",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DI x 24VDC_5",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "8DO x 24VDC \/ 0.5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PM-E 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "PM-E 24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "vh-b01Et200s",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 151-3AA23-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 8x24VDC HS_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0DA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 8x24VDC HS_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0DA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DTK-Et200sp",
+    "Firmware": "4.1",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD Conche 1",
+    "DeviceItem": "PN-CPU315-2-CO1",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 315-2EH14-0AB0"
+  },
+  {
+    "Device": "GSD Conche 6",
+    "DeviceItem": "PN-CPU151-8-CO6",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "GSD Conche 7",
+    "DeviceItem": "PN-CPU151-8-CO7",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "GSD Conche 8",
+    "DeviceItem": "PN-CPU151-8-CO8",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "zs001-plc",
+    "Firmware": "4.4",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "GSD device_10",
+    "DeviceItem": "CP-343-1-Lean-CO3",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "GSD device_11",
+    "DeviceItem": "CP-343-1-Lean-CO4",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "GSD device_12",
+    "DeviceItem": "CP-343-1-Lean-CO5",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "GSD device_13",
+    "DeviceItem": "dopr-hmot-l1-cpu",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "mixer-l1-plc",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "GSD device_3",
+    "DeviceItem": "zs005-plc",
+    "Firmware": "4.4",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "GSD device_4",
+    "DeviceItem": "zs006-plc",
+    "Firmware": "4.4",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "GSD device_5",
+    "DeviceItem": "plc_kabu",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "GSD device_6",
+    "DeviceItem": "PN-CPU151-8-CO9",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "GSD device_7",
+    "DeviceItem": "zs007-plc",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  },
+  {
+    "Device": "GSD device_8",
+    "DeviceItem": "zs008-plc",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  },
+  {
+    "Device": "GSD device_9",
+    "DeviceItem": "CP-343-1-Lean-CO2",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1CX10-0XE0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "AI 4xU\/I\/RTD\/TC ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 531-7QD00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "AI 8xU\/I\/RTD\/TC ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 531-7KF00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_5",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DI 32x24VDC HF_6",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 521-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DQ 32x24VDC\/0.5A ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 522-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DQ 32x24VDC\/0.5A ST_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 522-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "DQ 32x24VDC\/0.5A ST_3",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 522-1BL00-0AB0"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "PM 70W 120\/230VAC",
+    "Firmware": "",
+    "OrderNumber": "6EP1332-4BA00"
+  },
+  {
+    "Device": "S7-1500 station_1",
+    "DeviceItem": "vh-cpu",
+    "Firmware": "1.8",
+    "OrderNumber": "6ES7 516-3AN01-0AB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "vh-M013",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_10",
+    "DeviceItem": "vh-M221",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "vh-MB14",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "vh-MB15",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_4",
+    "DeviceItem": "vh-MB25",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_5",
+    "DeviceItem": "vh-M009",
+    "Firmware": "4.7.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_6",
+    "DeviceItem": "vh-M016",
+    "Firmware": "4.7.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_7",
+    "DeviceItem": "vh-9m3",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE22-6AF1"
+  },
+  {
+    "Device": "SINAMICS G_8",
+    "DeviceItem": "vh-M222",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  },
+  {
+    "Device": "SINAMICS G_9",
+    "DeviceItem": "vh-M215",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE21-7AF1"
+  }
+]

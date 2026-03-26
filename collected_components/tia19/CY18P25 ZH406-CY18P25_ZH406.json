@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "HMI_1",
+    "DeviceItem": "HMI",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AD11-3AX0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HF32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AQ 4x14BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 232-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "Battery board_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 297-0AX30-0XA0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 8\/DQ 8x24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BH32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "PLC_1",
+    "Firmware": "4.0",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  }
+]

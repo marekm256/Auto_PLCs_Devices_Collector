@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "K-COMM",
+    "Firmware": "3.1",
+    "OrderNumber": "6ES7 512-1DM03-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "atlascopco-profi",
+    "Firmware": "*",
+    "OrderNumber": "ac1c"
+  }
+]

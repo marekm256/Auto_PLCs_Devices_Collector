@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 314C-2 PN\/DP",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 314-6EH04-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "fondan-4gf1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "fondan-5gf3",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "PS 307 5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1EA01-0AA0"
+  }
+]

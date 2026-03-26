@@ -1,0 +1,116 @@
+[
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "AI 4xI 2-,4-wire ST_2",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6GD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DQ 8x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "IO-Device_1",
+    "Firmware": "4.1",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "HMI_Netzsch",
+    "DeviceItem": "HMI_Netzsch",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "S71500\/ET200MP-Station_1",
+    "DeviceItem": "-KF9802",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 515-2AM02-0AB0"
+  },
+  {
+    "Device": "S71500\/ET200MP-Station_1",
+    "DeviceItem": "Profilschiene_0",
+    "Firmware": "",
+    "OrderNumber": "6ES7 590-1***0-0AA0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "MA1301",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE14-3ALx"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "MA1311",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE14-3ALx"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "A-MA1001",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_3",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE33-7ALx"
+  }
+]

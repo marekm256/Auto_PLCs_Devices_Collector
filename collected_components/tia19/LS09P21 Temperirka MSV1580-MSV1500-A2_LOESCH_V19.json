@@ -1,0 +1,62 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 8xRTD\/TC 2-wire HF_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6JF00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "MSV1500_CPU",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "PROFINET BusAdapter CU",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "MSV1500_HMI",
+    "DeviceItem": "MSV1500_HMI",
+    "Firmware": "19.0.0.2",
+    "OrderNumber": "6AV2 128-3MB06-0AXx"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "MSV1500_M10",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT\/AQ 2x14BIT_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 234-4HE32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 16\/DQ 16x24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BL32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "SIWAREX WP231",
+    "Firmware": "",
+    "OrderNumber": "7MH4960-2AA01"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "ZH407",
+    "Firmware": "4.3",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  },
+  {
+    "Device": "ZH407_HMI",
+    "DeviceItem": "ZH407_HMI",
+    "Firmware": "15.1.0.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 134-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 8xI 2-,4-wire BA_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 134-6GF00-0AA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 132-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "MSV1500_CPU",
+    "Firmware": "1.8",
+    "OrderNumber": "6ES7 510-1DJ01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "PROFINET BusAdapter CU",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "MSV1500_HMI",
+    "DeviceItem": "HMI",
+    "Firmware": "13.0.1.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "MSV1500_M5",
+    "Firmware": "4.7.3",
+    "OrderNumber": "6SL3210-1KE14-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "MSV1500_M6",
+    "Firmware": "4.7.3",
+    "OrderNumber": "6SL3210-1KE14-3AF1"
+  }
+]

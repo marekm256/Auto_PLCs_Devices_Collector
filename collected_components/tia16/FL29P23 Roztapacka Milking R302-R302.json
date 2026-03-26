@@ -1,0 +1,104 @@
+[
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A10 8DI x 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A11 8DI x 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A12 8DI x 24VDC_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A13 8DO x 24VDC \/ 0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A14 8DO x 24VDC \/ 0.5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A15 8DO x 24VDC \/ 0.5A_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A16 2AO x I ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A17 2AO x U ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A18 4DO x 24VDC \/ 0.5A ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BD02-0AA0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A4 PM-E 24 to 48VDC \/ 24 to 230VAC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CB11-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A5 4AI x I 2WIRE ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A6 4AI x I 2WIRE ST_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A7 2AO x U ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A8 2AO x I ST_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "A9 PM-E 24 to 48VDC \/ 24 to 230VAC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CB11-0AB0"
+  },
+  {
+    "Device": "ET 200S station_1",
+    "DeviceItem": "r302-et200s-cpu",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "r302-ktp1000",
+    "DeviceItem": "r302-ktp1000",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AF11-3AX0"
+  }
+]

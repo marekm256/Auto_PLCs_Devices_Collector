@@ -1,0 +1,26 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 8\/DQ 8x24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BH32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "zh301-s7-1200",
+    "Firmware": "4.5",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  },
+  {
+    "Device": "zh301-mtp700-basic",
+    "DeviceItem": "zh301-mtp700-basic",
+    "Firmware": "19.0.0.0",
+    "OrderNumber": "6AV2 123-3GB32-0AW0"
+  }
+]

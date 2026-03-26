@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_2",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 8\/DQ 8x24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BL32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "ZS002-CPU",
+    "Firmware": "4.5",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "ZS002-GF1",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  },
+  {
+    "Device": "ZS002-HMI",
+    "DeviceItem": "ZS002-HMI",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2GB03-0AX0"
+  }
+]

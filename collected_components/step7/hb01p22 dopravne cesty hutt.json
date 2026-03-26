@@ -1,0 +1,80 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "2AO U ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "2AO U ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "2AO U ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4FB01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "IM151-8 PN\/DP CPU",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  }
+]

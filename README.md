@@ -88,14 +88,55 @@ Tia15-21_DevicesExporter.exe -tia17 "D:\collected_projects"
 Reads projects from `D:\collected_projects\tia17\` and writes JSON files to `D:\collected_components\tia17\`.
 
 ### Step7_ConfigsExporter (Python)
-- Purpose: automated GUI export of STEP7 hardware configs.
-- Input: STEP7 projects.
-- Output: `.cfg` files in `Step7_ConfigsExporter/Configs`.
+- Purpose: Python GUI automation that opens STEP7 projects and exports hardware config `.cfg` files.
+- Main script: `src/Step7_ConfigsExporter/step7Projects_exportCfgs.py`
+- Input:
+  - project folders under hardcoded `INPUT_FOLDER` (edit in script before run)
+  - each project folder should contain an `.s7p` project file
+  - required template images (`*_btn.png`, `*_loaded.png`) loaded by relative paths (run script from `src/Step7_ConfigsExporter` or adjust paths)
+- How it works:
+  - finds project folders in `INPUT_FOLDER` and opens `.s7p`
+  - uses image recognition (`pyautogui` + `opencv`) to click through STEP7 UI
+  - opens Hardware view, triggers Export, and saves config files
+  - on failures, asks operator: continue / skip project / exit
+- Output:
+  - exported `.cfg` files are saved via STEP7 Export dialog
+  - filename prefix format: `<projectFolder>-<machineIndex>-...`
+  - use/select `collected_configs/step7` in Export dialog to match next pipeline step
+- Important runtime notes:
+  - this is UI automation: STEP7 window/state and screen layout must match template images
+  - keep mouse/keyboard free while automation is running (`pyautogui` controls UI)
+  - password-protected or popup-heavy projects may require manual operator decisions
+- Simple example:
+```powershell
+cd src\Step7_ConfigsExporter
+python step7Projects_exportCfgs.py
+```
 
 ### Step7_DevicesExporter
-- Purpose: parse exported STEP7 `.cfg` files and extract device inventory.
-- Input: `.cfg` files from Step7_ConfigsExporter.
-- Output: JSON files with standardized device rows.
+- Purpose: parse STEP7 exported `.cfg` files (from `Step7_ConfigsExporter`) and extract devices.
+- Input:
+  - command arg: `collected_configs`
+  - expected folder: `collected_configs/step7/`
+  - reads only `*.cfg` files from top level of `step7` folder
+- How it works:
+  - loads `.cfg` files and groups them by project folder name parsed from config filename
+  - expected filename pattern from previous app: `<projectFolder>-<deviceIndex>-<projectName>...cfg`
+  - skips configs with unexpected filename format
+  - extracts rows from `RACK`, `DPSUBSYSTEM`, `IOSUBSYSTEM` lines with valid MLFB / order number
+  - removes duplicate device locations inside one config
+  - exports JSON rows with: `Device`, `DeviceItem`, `OrderNumber`, `Firmware`
+- Output:
+  - `.../collected_components/step7/<projectFolder>.json`
+- Important runtime notes:
+  - this app follows `Step7_ConfigsExporter`, so export `.cfg` files into `collected_configs/step7`
+  - only top-level files in `step7` are scanned (no recursive search)
+  - configs with invalid names are skipped and reported in summary
+- Simple example:
+```powershell
+Step7_DevicesExporter.exe "D:\collected_configs"
+```
+Reads `D:\collected_configs\step7\*.cfg` and writes JSON files to `D:\collected_components\step7\`.
 
 ### Devices_Processor
 - Purpose: final processing of JSON inventory.

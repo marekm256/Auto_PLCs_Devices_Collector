@@ -1,0 +1,170 @@
+[
+  {
+    "Device": "AMC_HMI_1",
+    "DeviceItem": "AMC_HMI_1",
+    "Firmware": "15.0.0.0",
+    "OrderNumber": "6AV2 124-0MC01-0AX0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K1 8DI",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K2 8DI",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K3 8DI",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K4 8DI",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K5 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K6 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K7 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K8 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "=A50 K9 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AMC_PLC_1",
+    "Firmware": "2.5",
+    "OrderNumber": "6ES7 512-1DK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K1 8DI",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K10 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K11 2AO",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K12 2AO",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K2 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K3 8DO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6BF00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K4 4RO",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6HD00-0BB1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K5 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K6 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K7 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K8 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "=A51 K9 2AI",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "External_IO_1",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 155-6AU00-0CN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  }
+]

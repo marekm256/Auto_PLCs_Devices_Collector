@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "cov",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF02-0AB0"
+  },
+  {
+    "Device": "cov",
+    "DeviceItem": "CP 343-1 Lean",
+    "Firmware": "1.0",
+    "OrderNumber": "6GK7 343-1CX00-0XE0"
+  },
+  {
+    "Device": "cov",
+    "DeviceItem": "CPU 313C",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-5BE01-0AB0"
+  },
+  {
+    "Device": "cov",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "cov",
+    "DeviceItem": "DO16xRel. AC120V\/230V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1HH01-0AA0"
+  },
+  {
+    "Device": "cov",
+    "DeviceItem": "PS 307 5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1EA00-0AA0"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "AQ 4xU\/I ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 135-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 8x24VDC BA_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BF01-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 8x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "loesch-ruk1-im",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 155-6AU00-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "hc510_ipc",
+    "DeviceItem": "hc510_ipc",
+    "Firmware": "",
+    "OrderNumber": "6AV7882-0xxxx-xxxx"
+  },
+  {
+    "Device": "hc510_ipc",
+    "DeviceItem": "HMI_RT_1",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 104-0xxxx-xxxx"
+  },
+  {
+    "Device": "hc510_ipc",
+    "DeviceItem": "PROFINET onboard_1",
+    "Firmware": "SW V8.2 ...",
+    "OrderNumber": "IE_CP"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "AI 8x12BIT_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF02-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "DI 32x24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "DI 32x24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "DI 32x24VDC_3",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "DO 32x24VDC\/0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "DO 32x24VDC\/0.5A_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "hc510_cpu",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 315-2EH14-0AB0"
+  },
+  {
+    "Device": "SIMATIC 300(1)",
+    "DeviceItem": "PS 307 2A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1BA01-0AA0"
+  }
+]

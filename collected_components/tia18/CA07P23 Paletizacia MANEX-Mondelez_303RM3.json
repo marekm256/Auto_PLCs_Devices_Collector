@@ -1,0 +1,536 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A6.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A6.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A6.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A6.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A6.5",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.7",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.8",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "A10.9",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_10",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A1.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A1.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A1.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A1.4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A1.5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A2.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A2.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A2.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A2.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A2.5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.7",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.8",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "A3.9",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_4",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "A4.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "A4.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "A4.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "A4.4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_5",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.5",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "A5.6",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_6",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.10",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.7",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.8",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "A7.9",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_7",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "A8.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "A8.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "A8.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "A8.4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_8",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "A9.1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "A9.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "A9.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "A9.4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_9",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "Robot_LEKOS",
+    "Firmware": "1.4",
+    "OrderNumber": "888-3"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "MXR_Cama",
+    "Firmware": "3.2.24",
+    "OrderNumber": "TN 197330"
+  },
+  {
+    "Device": "GSD device_3",
+    "DeviceItem": "Robot_CAMA",
+    "Firmware": "1.4",
+    "OrderNumber": "888-3"
+  },
+  {
+    "Device": "GSD device_4",
+    "DeviceItem": "MXR_Lekos",
+    "Firmware": "3.2.24",
+    "OrderNumber": "TN 197330"
+  },
+  {
+    "Device": "GSD device_6",
+    "DeviceItem": "Port 1 (2xRJ45)",
+    "Firmware": "",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "GSD device_6",
+    "DeviceItem": "Port 2 (2xRJ45)",
+    "Firmware": "",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "GSD device_6",
+    "DeviceItem": "TOSA",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 158-3AD10-0XA0"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_1",
+    "DeviceItem": "PLC_RM3",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 516-3FN02-0AB0"
+  }
+]

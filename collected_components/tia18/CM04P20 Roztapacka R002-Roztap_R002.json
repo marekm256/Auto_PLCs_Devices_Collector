@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "cm1200-r002-csm",
+    "DeviceItem": "cm1200-r002-csm1277",
+    "Firmware": "",
+    "OrderNumber": "6GK7 277-1AA10-0AA0"
+  },
+  {
+    "Device": "cm1200--r002-ktp",
+    "DeviceItem": "HMI",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AK11-3AX0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13 bits_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "cm1200-r002-cpu",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 214-1AG31-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8 x 24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 221-1BF32-0XB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "cm1200-r002-g120c-m3",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE13-2AF1"
+  }
+]

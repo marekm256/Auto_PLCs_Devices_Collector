@@ -1,0 +1,146 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "S06-sugar-plc",
+    "Firmware": "3.0",
+    "OrderNumber": "6ES7 510-1SK03-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "S06-sugar-plc-comm",
+    "Firmware": "2.2",
+    "OrderNumber": "6GK7 542-6UX00-0XE0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S06-sugar-IO",
+    "Firmware": "3.3",
+    "OrderNumber": "6ES7 155-6AU00-0CN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S10",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HD01-0BA1"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S3",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 131-6BH00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S4",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S6",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S7",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S8",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "S9",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "S06-sugar-hmi",
+    "DeviceItem": "S06-sugar-hmi",
+    "Firmware": "18.0.0.0",
+    "OrderNumber": "6AV2 128-3QB06-0AXx"
+  },
+  {
+    "Device": "SCALANCE XB-200",
+    "DeviceItem": "S06-sugar-switch",
+    "Firmware": "4.3",
+    "OrderNumber": "6GK5 208-0BA00-2AB2"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE12-3ULx"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "S06-sugar-201u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE12-3ULx"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "S06-sugar-202u1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  }
+]

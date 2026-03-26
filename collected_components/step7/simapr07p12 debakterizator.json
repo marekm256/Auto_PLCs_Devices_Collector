@@ -1,0 +1,200 @@
+[
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AI8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "AO8x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HF00-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "Alarm",
+    "OrderNumber": "6ES7 321-7BH00-0AB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA02-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1 DRVICKY",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1 PRAZIC",
+    "Firmware": "6.0",
+    "OrderNumber": "6ES7 153-1AA02-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1 PRAZICE",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "tic 300(prazice)",
+    "DeviceItem": "IM 153-1 SUSIC",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  }
+]

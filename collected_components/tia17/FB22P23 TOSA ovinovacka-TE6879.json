@@ -1,0 +1,152 @@
+[
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "100A00",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A10",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 134-6HB00-0CA1"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A5",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A6",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A7",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A8",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "102A9",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "Wr_100A0_Cabinet",
+    "Firmware": "2.8",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "Wr_100A0_Cabinet",
+    "DeviceItem": "Wr_CP_100A1",
+    "Firmware": "2.1",
+    "OrderNumber": "6GK7 542-6UX00-0XE0"
+  },
+  {
+    "Device": "Wr_100A6_PNPN Coupler",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "Wr_100A6_PNPN Coupler",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "Wr_100A6_PNPN Coupler",
+    "DeviceItem": "Wr_100A6_PNPN Coupler.X1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 158-3AD10-0XA0"
+  },
+  {
+    "Device": "Wr_100A6_PNPN Coupler",
+    "DeviceItem": "Wr_100A6_PNPN Coupler.X2",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 158-3AD10-0XA0"
+  },
+  {
+    "Device": "Wr_Drive320T1",
+    "DeviceItem": "Wr_Drive320T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE13-2AF2"
+  },
+  {
+    "Device": "Wr_Drive40T1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE16-1ALx"
+  },
+  {
+    "Device": "Wr_Drive40T1",
+    "DeviceItem": "Wr_Drive40T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "Wr_Drive41T1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE21-1ALx"
+  },
+  {
+    "Device": "Wr_Drive41T1",
+    "DeviceItem": "Wr_Drive41T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "Wr_Drive46T1",
+    "DeviceItem": "Wr_Drive46T1",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3210-1KE12-3AF2"
+  }
+]

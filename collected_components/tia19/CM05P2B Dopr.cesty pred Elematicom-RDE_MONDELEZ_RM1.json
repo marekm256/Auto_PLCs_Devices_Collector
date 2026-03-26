@@ -1,0 +1,170 @@
+[
+  {
+    "Device": "cm1200-kart-302rm1-hmi",
+    "DeviceItem": "cm1200-kart-302rm1-hmi",
+    "Firmware": "18.0.0.0",
+    "OrderNumber": "6AV2 128-3MB06-0AXx"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A1.2",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A1.3",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "A1.4",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "cm1200-kart-302rm1-plc",
+    "Firmware": "2.9",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "CP 1542SP-1_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6GK7 542-6UX00-0XE0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.2 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.3 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.4 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.5 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.6 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.7 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.8 - MX106",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "A2.9 - MX106",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 136-6BA01-0CA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "cm1200-kart-302rm1-mx106",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_2",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A10.2 - MX100",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "A10.3- MX100",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "cm1200-kart-302rm1-mx100",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_3",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD device_1",
+    "DeviceItem": "cm1200-kart-302rm1-dm2",
+    "Firmware": "6.3.7",
+    "OrderNumber": "DMR-28x-xx"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "cm1200-kart-302rm1-dm1",
+    "Firmware": "6.3.7",
+    "OrderNumber": "DMR-28x-xx"
+  },
+  {
+    "Device": "SCALANCE XC-200",
+    "DeviceItem": "Switch_1",
+    "Firmware": "4.3",
+    "OrderNumber": "6GK5 208-0BA00-2AC2"
+  }
+]

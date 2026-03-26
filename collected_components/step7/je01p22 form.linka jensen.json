@@ -1,0 +1,326 @@
+[
+  {
+    "Device": "form",
+    "DeviceItem": "AI16x16Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 431-7QH00-0AB0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "AI16x16Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 431-7QH00-0AB0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "AI16x16Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 431-7QH00-0AB0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "AO8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 432-1HF00-0AB0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "CP 443-1",
+    "Firmware": "2.3",
+    "OrderNumber": "6GK7 443-1EX11-0XE0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "CP 443-5 EXT_DP_2",
+    "Firmware": "5.0",
+    "OrderNumber": "6GK7 443-5DX03-0XE0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "CP 443-5 EXT_DP_3",
+    "Firmware": "5.0",
+    "OrderNumber": "6GK7 443-5DX03-0XE0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "CPU 412-2 PN",
+    "Firmware": "7.0",
+    "OrderNumber": "6ES7 412-2EK07-0AB0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DI32xDC 24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 421-1BL01-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DI32xDC 24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 421-1BL01-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DI32xDC 24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 421-1BL01-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DI32xDC 24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 421-1BL01-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 422-1BL00-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 422-1BL00-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "FM 452 CAM",
+    "Firmware": "",
+    "OrderNumber": "6ES7 452-1AH00-0AE0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M304",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M51-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M53-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M54-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M55-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M56-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M57-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "M58-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "PS 405 20A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 405-0RA01-0AA0"
+  },
+  {
+    "Device": "form",
+    "DeviceItem": "UR1 S7400",
+    "Firmware": "",
+    "OrderNumber": "6ES7 400-1TA01-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF02-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AO4x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HD01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AO4x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HD01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "AO4x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HD01-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "3.0",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "IM 153-1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 153-1AA03-0XB0"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "mas-m032-1",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "masse",
+    "DeviceItem": "PS 307 5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1EA00-0AA0"
+  }
+]

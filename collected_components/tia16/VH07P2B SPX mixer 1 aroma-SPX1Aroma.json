@@ -1,0 +1,50 @@
+[
+  {
+    "Device": "Mondelez_Aroma_HMI",
+    "DeviceItem": "Mondelez_Aroma_HMI",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  },
+  {
+    "Device": "S7-300 station_1",
+    "DeviceItem": "AI8 x 12 bits_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-7KF02-0AB0"
+  },
+  {
+    "Device": "S7-300 station_1",
+    "DeviceItem": "DI16 x 24VDC_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "S7-300 station_1",
+    "DeviceItem": "DI16 x 24VDC_2",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "S7-300 station_1",
+    "DeviceItem": "DO16 x 24VDC \/ 0.5A_1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "S7-300 station_1",
+    "DeviceItem": "Mondelez_Aroma_System",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 315-2EH14-0AB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "AROMA",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE12-3AF1"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "HMOTA",
+    "Firmware": "4.6",
+    "OrderNumber": "6SL3210-1KE21-3AF1"
+  }
+]

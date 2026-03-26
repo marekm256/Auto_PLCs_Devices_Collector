@@ -1,0 +1,20 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 313C",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 313-5BE01-0AB0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  }
+]

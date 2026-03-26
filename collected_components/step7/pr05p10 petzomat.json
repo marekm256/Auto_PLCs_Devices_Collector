@@ -1,0 +1,98 @@
+[
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF00-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF00-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF01-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AI8x13Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 331-1KF02-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "AO2x12Bit",
+    "Firmware": "",
+    "OrderNumber": "6ES7 332-5HB01-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "2.4",
+    "OrderNumber": "6GK7 343-1EX30-0XE0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "CPU 314C-2 DP",
+    "Firmware": "2.6",
+    "OrderNumber": "6ES7 314-6CG03-0AB0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "DI16xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BH02-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "DO16xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BH01-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "IM 365",
+    "Firmware": "",
+    "OrderNumber": "6ES7 365-0BA01-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "IM 365",
+    "Firmware": "",
+    "OrderNumber": "6ES7 365-0BA01-0AA0"
+  },
+  {
+    "Device": "petzomat",
+    "DeviceItem": "PS 307 5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 307-1EA00-0AA0"
+  }
+]

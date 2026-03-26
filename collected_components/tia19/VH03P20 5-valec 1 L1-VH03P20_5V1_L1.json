@@ -1,0 +1,212 @@
+[
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "_SFLF_Standard",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 512-1SK01-0AB0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "AI 4xU\/I 2-wire ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 134-6HD00-0BA1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "AQ 2xU\/I HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 135-6HB00-0CA1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 8x24VDC BA_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 8x24VDC BA_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 8x24VDC BA_3",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DI 8x24VDC BA_4",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 131-6BF00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "DQ 8x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BF01-0BA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "F-DI 8x24VDC HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6BA00-0CA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "F-DQ 4x24VDC\/2A PM HF_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6DB00-0CA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "F-RQ 1x24..48VDC\/24..230VAC\/5A_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6RA00-0BF0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "F-RQ 1x24..48VDC\/24..230VAC\/5A_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 136-6RA00-0BF0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "PROFINET BusAdapter CU",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "RQ 4x120VDC\/230VAC\/5A NO ST_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6HD00-0BB1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "RQ 4x120VDC\/230VAC\/5A NO ST_2",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 132-6HD00-0BB1"
+  },
+  {
+    "Device": "ET 200SP-Station_2",
+    "DeviceItem": "Servermodul_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56611 DIO8 E 4xM12_1",
+    "Firmware": "",
+    "OrderNumber": "56611"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56611 DIO8 E 4xM12_2",
+    "Firmware": "",
+    "OrderNumber": "56611"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56611 DIO8 E 4xM12_3",
+    "Firmware": "",
+    "OrderNumber": "56611"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56650xx DO8 C Valve(9) K3_1",
+    "Firmware": "",
+    "OrderNumber": "56650xx"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56650xx DO8 C Valve(9) K3_2",
+    "Firmware": "",
+    "OrderNumber": "56650xx"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56655 DO8 E Valve_1",
+    "Firmware": "",
+    "OrderNumber": "56655"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56721 AO4 E 4xM12 (I)_1",
+    "Firmware": "",
+    "OrderNumber": "56721"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_1",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_2",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_3",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_4",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_5",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "56731 AI4 E 4xM12 (I)_7",
+    "Firmware": "",
+    "OrderNumber": "56731"
+  },
+  {
+    "Device": "GSD-Geraet_1",
+    "DeviceItem": "Cube67-BN-PNIO",
+    "Firmware": "1",
+    "OrderNumber": "56526"
+  },
+  {
+    "Device": "GSD-Geraet_2",
+    "DeviceItem": "mm710e01",
+    "Firmware": "1.0.0",
+    "OrderNumber": "NDCPRT"
+  },
+  {
+    "Device": "GSD-Geraet_3",
+    "DeviceItem": "MVK-MPNIO-F",
+    "Firmware": "",
+    "OrderNumber": "55556"
+  },
+  {
+    "Device": "GSD-Geraet_4",
+    "DeviceItem": "MVK-MPNIO-F_1",
+    "Firmware": "",
+    "OrderNumber": "55557"
+  },
+  {
+    "Device": "PAC3200",
+    "DeviceItem": "PAC3200",
+    "Firmware": "2.4",
+    "OrderNumber": "7KM211x-xBA00-xAA0"
+  },
+  {
+    "Device": "PAC3200",
+    "DeviceItem": "PROFINET interface_1",
+    "Firmware": "2.1",
+    "OrderNumber": "7KM9300-0AE01-0AA0"
+  }
+]

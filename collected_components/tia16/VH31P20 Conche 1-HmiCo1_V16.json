@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "DeviceProxy-Station_2",
+    "DeviceItem": "Co1",
+    "Firmware": "",
+    "OrderNumber": "6ES7 XXX-XXXXX-XXXX"
+  },
+  {
+    "Device": "HmiCo1",
+    "DeviceItem": "HmiCo1",
+    "Firmware": "16.0.0.0",
+    "OrderNumber": "6AV2 124-0GC01-0AX0"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "Z-mixer1-G120",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "PM240-2 IP20",
+    "Firmware": "-",
+    "OrderNumber": "6SL3210-1PE22-7ALx"
+  },
+  {
+    "Device": "SINAMICS G_2",
+    "DeviceItem": "Z-mixer2-G120",
+    "Firmware": "4.7.13",
+    "OrderNumber": "6SL3244-0BB12-1FA0"
+  },
+  {
+    "Device": "Z-mixer1-KTP400",
+    "DeviceItem": "Z-mixer1-KTP400",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  },
+  {
+    "Device": "Z-mixer2-KTP400",
+    "DeviceItem": "Z-mixer2-KTP400",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  }
+]

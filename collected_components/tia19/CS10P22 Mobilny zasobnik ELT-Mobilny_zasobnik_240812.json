@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "HMI",
+    "DeviceItem": "HMI",
+    "Firmware": "17.0.0.0",
+    "OrderNumber": "6AV2 123-2DB03-0AX0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "PLC",
+    "Firmware": "4.5",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  }
+]

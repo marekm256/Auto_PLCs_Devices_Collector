@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "R303_HMI",
+    "DeviceItem": "R303_HMI",
+    "Firmware": "15.1.0.0",
+    "OrderNumber": "6AV2 123-2GB03-0AX0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT\/AQ 2x14BIT_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 234-4HE32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "AI 4x13BIT_1",
+    "Firmware": "2.1",
+    "OrderNumber": "6ES7 231-4HD32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "DI 16\/DQ 16x24VDC_1",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 223-1BL32-0XB0"
+  },
+  {
+    "Device": "S7-1200 station_1",
+    "DeviceItem": "R303-CPU",
+    "Firmware": "4.4",
+    "OrderNumber": "6ES7 215-1AG40-0XB0"
+  },
+  {
+    "Device": "SINAMICS G_1",
+    "DeviceItem": "R303_GF2",
+    "Firmware": "4.7.10",
+    "OrderNumber": "6SL3210-1KE14-3AF2"
+  }
+]

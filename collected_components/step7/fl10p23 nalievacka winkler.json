@@ -1,0 +1,182 @@
+[
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "2AI I 4WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GB11-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "2AI RTD ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB50-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "2AI RTD ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4JB50-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DI DC24V ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "4DO DC24V\/0",
+    "Firmware": "5A ST",
+    "OrderNumber": "6ES7 132-4BD01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "=GS1+N01",
+    "Firmware": "",
+    "OrderNumber": "6ES7 151-1AA05-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "=GS1+N02",
+    "Firmware": "",
+    "OrderNumber": "6ES7 151-1AA04-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "CP 343-1",
+    "Firmware": "1.2",
+    "OrderNumber": "6GK7 343-1EX21-0XE0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "CPU 315-2 DP",
+    "Firmware": "2.0",
+    "OrderNumber": "6ES7 315-2AG10-0AB0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DI32xDC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 321-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "DO32xDC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 322-1BL00-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simatic 300",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simotion d",
+    "DeviceItem": "D435",
+    "Firmware": "4.1",
+    "OrderNumber": "6AU1 435-0AA00-0AA1"
+  },
+  {
+    "Device": "simotion d",
+    "DeviceItem": "SIMOTION D435",
+    "Firmware": "4.1",
+    "OrderNumber": "6AU1 435-0AA00-0AA1"
+  }
+]

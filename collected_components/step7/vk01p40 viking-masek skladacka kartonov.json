@@ -1,0 +1,44 @@
+[
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "GF21",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "GF22",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "GF23",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "GF24",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "GF25",
+    "Firmware": "",
+    "OrderNumber": "6SL3 210-1KExx-xxFx"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "PLC",
+    "Firmware": "4.4",
+    "OrderNumber": "6AU1 425-2AD00-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "SIMOTION D425-2",
+    "Firmware": "4.4",
+    "OrderNumber": "6AU1 425-2AD00-0AA0"
+  }
+]

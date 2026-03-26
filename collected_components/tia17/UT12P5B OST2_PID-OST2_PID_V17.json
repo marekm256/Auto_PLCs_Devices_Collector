@@ -1,0 +1,14 @@
+[
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x 13bits \/ AO2 x 14bits_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 234-4HE30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "OST2",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 212-1AD30-0XB0"
+  }
+]

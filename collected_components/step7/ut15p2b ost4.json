@@ -1,0 +1,128 @@
+[
+  {
+    "Device": "ost2",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "IM151-8 PN\/DP CPU",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 151-8AB01-0AB0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ost2",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "2AO I ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 135-4GB01-0AB0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "4AI I 2WIRE ST",
+    "Firmware": "",
+    "OrderNumber": "6ES7 134-4GD00-0AB0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "8DI DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 131-4BF00-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "8DO DC24V\/0.5A",
+    "Firmware": "",
+    "OrderNumber": "6ES7 132-4BF00-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "IM151-8 PN\/DP CPU",
+    "Firmware": "2.7",
+    "OrderNumber": "6ES7 151-8AB00-0AB0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "ost4_dtb1",
+    "DeviceItem": "PM-E DC24V",
+    "Firmware": "",
+    "OrderNumber": "6ES7 138-4CA01-0AA0"
+  },
+  {
+    "Device": "simatic 300(1)",
+    "DeviceItem": "CPU 315-2 PN\/DP",
+    "Firmware": "3.2",
+    "OrderNumber": "6ES7 315-2EH14-0AB0"
+  }
+]

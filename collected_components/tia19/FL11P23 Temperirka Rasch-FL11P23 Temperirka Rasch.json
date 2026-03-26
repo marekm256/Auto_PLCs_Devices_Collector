@@ -1,0 +1,38 @@
+[
+  {
+    "Device": "rasch-HMI",
+    "DeviceItem": "KTP600 Basic color PN",
+    "Firmware": "12.0.0.0",
+    "OrderNumber": "6AV6 647-0AD11-3AX0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "AI4 x RTD_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 231-5PD30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI2\/DQ2 x 24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-0BD30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8\/DQ8 x 24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-1BH30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "DI8\/DQ8 x 24VDC_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-1BH30-0XB0"
+  },
+  {
+    "Device": "SIMATIC 1200 station_1",
+    "DeviceItem": "rasch-s7-1214",
+    "Firmware": "4.1",
+    "OrderNumber": "6ES7 214-1AG40-0XB0"
+  }
+]
