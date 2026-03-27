@@ -1,0 +1,32 @@
+[
+  {
+    "Device": "S7-1200 G2 station_1",
+    "DeviceItem": "AI4 signal board_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 231-4HD50-0XB0"
+  },
+  {
+    "Device": "S7-1200 G2 station_1",
+    "DeviceItem": "SM 1223 DI8\/DQ8 x 24VDC_1",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-5BH50-0XB0"
+  },
+  {
+    "Device": "S7-1200 G2 station_1",
+    "DeviceItem": "SM 1223 DI8\/DQ8 x 24VDC_2",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 223-5BH50-0XB0"
+  },
+  {
+    "Device": "S7-1200 G2 station_1",
+    "DeviceItem": "zh109-plc",
+    "Firmware": "1.0",
+    "OrderNumber": "6ES7 212-1AG50-0XB0"
+  },
+  {
+    "Device": "zh109-op",
+    "DeviceItem": "zh109-op",
+    "Firmware": "20.0.0.2",
+    "OrderNumber": "6AV2 123-3GB32-0AW0"
+  }
+]

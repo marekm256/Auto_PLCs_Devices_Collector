@@ -1,0 +1,68 @@
+[
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "BA 2xRJ45",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 193-6AR00-0AA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "CM 4xIO-Link_1",
+    "Firmware": "2.2",
+    "OrderNumber": "6ES7 137-6BD00-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DI 16x24VDC ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 131-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "DQ 16x24VDC\/0.5A ST_1",
+    "Firmware": "0.0",
+    "OrderNumber": "6ES7 132-6BH01-0BA0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "IO device_1",
+    "Firmware": "4.2",
+    "OrderNumber": "6ES7 155-6AU01-0BN0"
+  },
+  {
+    "Device": "ET 200SP station_1",
+    "DeviceItem": "Server module_1",
+    "Firmware": "1.1",
+    "OrderNumber": "6ES7 193-6PA00-0AA0"
+  },
+  {
+    "Device": "GSD device_2",
+    "DeviceItem": "Emerson FIC03-P04",
+    "Firmware": "1.10",
+    "OrderNumber": "1600*1*C**ZZ*HHCZZ*"
+  },
+  {
+    "Device": "GSD device_3",
+    "DeviceItem": "Emerson FIC02-P03",
+    "Firmware": "1.10",
+    "OrderNumber": "1600*1*C**ZZ*HHCZZ*"
+  },
+  {
+    "Device": "HMI_2501301",
+    "DeviceItem": "HMI_2501301",
+    "Firmware": "20.0.0.2",
+    "OrderNumber": "6AV2 128-3GB06-0AXx"
+  },
+  {
+    "Device": "S7-1500\/ET200MP station_1",
+    "DeviceItem": "PLC_2501301",
+    "Firmware": "4.0",
+    "OrderNumber": "6ES7 511-1AL03-0AB0"
+  },
+  {
+    "Device": "SCALANCE XB-200",
+    "DeviceItem": "PKB-DL-AX-XB216",
+    "Firmware": "4.4",
+    "OrderNumber": "6GK5 216-0BA00-2AB2"
+  }
+]
