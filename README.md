@@ -139,9 +139,28 @@ Step7_DevicesExporter.exe "D:\collected_configs"
 Reads `D:\collected_configs\step7\*.cfg` and writes JSON files to `D:\collected_components\step7\`.
 
 ### Devices_Processor
-- Purpose: final processing of JSON inventory.
-- Input: `collected_components`.
+- Purpose: final processing step that converts exported device JSONs into formatted Excel reports and Access tables, enriched with Siemens metadata.
+- Input:
+  - command arg: `collected_components`
+  - expected structure: top-level group folders (for example `tia19`, `step7`) containing `*.json`
+  - scans only top-level JSON files inside each group folder (not recursive)
+- How it works:
+  - loads each group JSON and creates one Excel per JSON project
+  - enriches each row using Siemens product page data (`Lifecycle`, `Description`, product image)
+  - adds Siemens product URL hyperlink per row
+  - writes/replaces Access table for each processed project
+  - moves successfully processed JSON into `<group>/processed/`
+  - continues with next JSON if one project fails
 - Output:
-  - formatted Excel files (`collected_excels`)
-  - downloaded image cache (`downloaded_images`)
-- Metadata source: Siemens product pages (Lifecycle, Description, product image).
+  - `/collected_excels/<group>/<project>.xlsx`
+  - `/Devices.accdb`
+  - `/downloaded_images/`
+- Important runtime notes:
+  - internet access is required for Siemens metadata/image download
+  - Microsoft Access COM (`Access.Application`) must be available to create/update `Devices.accdb`
+  - app uses Playwright with Chrome channel for metadata scraping
+- Simple example:
+```powershell
+Devices_Processor.exe "D:\collected_components"
+```
+Reads JSONs from `D:\collected_components\<group>\*.json` and writes output to `D:\collected_excels`, `D:\Devices.accdb`, and `D:\downloaded_images`.

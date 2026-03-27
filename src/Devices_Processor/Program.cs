@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 using A = DocumentFormat.OpenXml.Drawing;
@@ -52,11 +53,15 @@ namespace Devices_Processor
             var outputBaseFolder = Path.Combine(outputRoot, "collected_excels");
             Directory.CreateDirectory(outputBaseFolder);
             Console.WriteLine($"[Status] Excel output root: {outputBaseFolder}");
+            var accessDbPath = Path.Combine(outputRoot, "Devices.accdb");
+            EnsureAccessDatabase(accessDbPath);
+            Console.WriteLine($"[Status] Access DB: {accessDbPath}");
 
             var imagesFolder = Path.Combine(outputRoot, "downloaded_images");
 
             var excelCreated = 0;
             var excelFailed = 0;
+            var processedJsonCount = 0;
 
             using (var metadataService = new SiemensMetadataService(imagesFolder))
             {
@@ -86,6 +91,7 @@ namespace Devices_Processor
                         var projectName = Path.GetFileNameWithoutExtension(projectFileName);
                         var outputPath = Path.Combine(groupOutputFolder, projectName + ".xlsx");
                         Console.WriteLine();
+                        Console.WriteLine($"[Status] JSON progress: {processedJsonCount + 1}/{totalJsonCount}");
                         Console.WriteLine($"[Status] Project {projectIndex + 1}/{group.JsonPaths.Count}: {projectFileName}");
 
                         try
@@ -93,18 +99,24 @@ namespace Devices_Processor
                             var rows = LoadDeviceRows(jsonPath);
                             var recordTimestamp = DateTime.Now;
 
-                            SaveProjectExcel(outputPath, group.Name, projectName, rows, recordTimestamp, metadataService);
+                            var dbRows = SaveProjectExcel(outputPath, group.Name, projectName, rows, recordTimestamp, metadataService);
+                            var accessTableName = SanitizeAccessTableName(projectName);
+                            UpsertAccessTable(accessDbPath, accessTableName, dbRows);
 
                             Console.WriteLine($"[Result] JSON processed: {projectFileName}");
                             Console.WriteLine($"[Result] Rows loaded: {rows.Count}");
                             Console.WriteLine($"[Result] Excel saved: {outputPath}");
+                            Console.WriteLine($"[Result] Access table replaced: {accessTableName}");
+                            MoveJsonToProcessed(jsonPath);
                             excelCreated++;
+                            processedJsonCount++;
                         }
                         catch (Exception exception)
                         {
                             Console.WriteLine($"[Status] Failed to process JSON: {projectFileName}");
                             PrintException(exception);
                             excelFailed++;
+                            processedJsonCount++;
                         }
                     }
 
@@ -176,7 +188,28 @@ namespace Devices_Processor
             }
         }
 
-        private static void SaveProjectExcel(
+        private static void MoveJsonToProcessed(string jsonPath)
+        {
+            var groupFolder = Path.GetDirectoryName(jsonPath);
+            if (string.IsNullOrWhiteSpace(groupFolder))
+            {
+                return;
+            }
+
+            var processedFolder = Path.Combine(groupFolder, "processed");
+            Directory.CreateDirectory(processedFolder);
+
+            var destinationPath = Path.Combine(processedFolder, Path.GetFileName(jsonPath));
+            if (File.Exists(destinationPath))
+            {
+                File.Delete(destinationPath);
+            }
+
+            File.Move(jsonPath, destinationPath);
+            Console.WriteLine($"[Status] Moved JSON to processed: {destinationPath}");
+        }
+
+        private static List<AccessExportRow> SaveProjectExcel(
             string outputPath,
             string groupName,
             string projectFileName,
@@ -185,6 +218,7 @@ namespace Devices_Processor
             SiemensMetadataService metadataService)
         {
             EnsureFreshFile(outputPath);
+            var accessRows = new List<AccessExportRow>(rows.Count);
 
             using (var document = SpreadsheetDocument.Create(outputPath, SpreadsheetDocumentType.Workbook))
             {
@@ -244,7 +278,7 @@ namespace Devices_Processor
                     var row = rows[i];
                     var orderNumber = Normalize(row.OrderNumber);
                     Console.WriteLine();
-                    Console.WriteLine($"[Status] Device {i + 1}/{total}: {Normalize(row.Device)} ({orderNumber})");
+                    Console.WriteLine($"[Status] Device {i + 1}/{total}: {Normalize(row.DeviceItem)} ({orderNumber})");
                     var metadata = metadataService.Get(orderNumber);
                     var url = BuildSiemensUrl(orderNumber);
                     var lifecycleStyleIndex = GetLifecycleStyleIndex(metadata.Lifecycle);
@@ -264,6 +298,19 @@ namespace Devices_Processor
                         CreateCell(metadata.Description, 2),
                         CreateCell(url, 2));
                     sheetData.Append(dataRow);
+                    accessRows.Add(new AccessExportRow
+                    {
+                        Timestamp = timestampValue,
+                        Group = groupName,
+                        Project = projectFileName,
+                        Device = Normalize(row.Device),
+                        DeviceItem = Normalize(row.DeviceItem),
+                        OrderNumber = orderNumber,
+                        Firmware = Normalize(row.Firmware),
+                        Lifecycle = metadata.Lifecycle,
+                        Description = metadata.Description,
+                        Url = url
+                    });
 
                     if (!string.IsNullOrWhiteSpace(url))
                     {
@@ -315,6 +362,8 @@ namespace Devices_Processor
 
                 workbookPart.Workbook.Save();
             }
+
+            return accessRows;
         }
 
         private static void EnsureFreshFile(string path)
@@ -371,6 +420,190 @@ namespace Devices_Processor
 
             var compactOrder = new string(orderNumber.Where(ch => !char.IsWhiteSpace(ch)).ToArray());
             return $"https://sieportal.siemens.com/en-ww/products-services/detail/{compactOrder}?tree=CatalogTree";
+        }
+
+        private static void EnsureAccessDatabase(string dbPath)
+        {
+            if (File.Exists(dbPath))
+            {
+                return;
+            }
+
+            var folder = Path.GetDirectoryName(dbPath);
+            if (!string.IsNullOrWhiteSpace(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+
+            var accessType = Type.GetTypeFromProgID("Access.Application");
+            if (accessType == null)
+            {
+                throw new InvalidOperationException("Access.Application COM class not found.");
+            }
+
+            object accessAppCom = null;
+            try
+            {
+                accessAppCom = Activator.CreateInstance(accessType);
+                dynamic accessApp = accessAppCom;
+                accessApp.Visible = false;
+                accessApp.NewCurrentDatabase(dbPath);
+            }
+            finally
+            {
+                if (accessAppCom != null)
+                {
+                    try
+                    {
+                        ((dynamic)accessAppCom).Quit();
+                    }
+                    catch
+                    {
+                    }
+
+                    if (Marshal.IsComObject(accessAppCom))
+                    {
+                        Marshal.FinalReleaseComObject(accessAppCom);
+                    }
+                }
+            }
+        }
+
+        private static void UpsertAccessTable(string dbPath, string tableName, IReadOnlyList<AccessExportRow> rows)
+        {
+            var accessType = Type.GetTypeFromProgID("Access.Application");
+            if (accessType == null)
+            {
+                throw new InvalidOperationException("Access.Application COM class not found.");
+            }
+
+            object accessAppCom = null;
+            object databaseCom = null;
+            var tableSqlName = WrapAccessIdentifier(tableName);
+
+            try
+            {
+                accessAppCom = Activator.CreateInstance(accessType);
+                dynamic accessApp = accessAppCom;
+                accessApp.Visible = false;
+                accessApp.OpenCurrentDatabase(dbPath);
+
+                databaseCom = accessApp.CurrentDb();
+                dynamic database = databaseCom;
+
+                try
+                {
+                    database.Execute("DROP TABLE " + tableSqlName);
+                }
+                catch
+                {
+                }
+
+                database.Execute(
+                    "CREATE TABLE " + tableSqlName + " (" +
+                    "[Timestamp] TEXT(50), " +
+                    "[GroupName] TEXT(100), " +
+                    "[Project] TEXT(255), " +
+                    "[Device] TEXT(255), " +
+                    "[DeviceItem] TEXT(255), " +
+                    "[OrderNumber] TEXT(100), " +
+                    "[Firmware] TEXT(100), " +
+                    "[Lifecycle] TEXT(255), " +
+                    "[Description] LONGTEXT, " +
+                    "[URL] LONGTEXT)");
+
+                foreach (var row in rows)
+                {
+                    var sql =
+                        "INSERT INTO " + tableSqlName +
+                        " ([Timestamp], [GroupName], [Project], [Device], [DeviceItem], [OrderNumber], [Firmware], [Lifecycle], [Description], [URL]) VALUES (" +
+                        "'" + EscapeSqlValue(row.Timestamp) + "', " +
+                        "'" + EscapeSqlValue(row.Group) + "', " +
+                        "'" + EscapeSqlValue(row.Project) + "', " +
+                        "'" + EscapeSqlValue(row.Device) + "', " +
+                        "'" + EscapeSqlValue(row.DeviceItem) + "', " +
+                        "'" + EscapeSqlValue(row.OrderNumber) + "', " +
+                        "'" + EscapeSqlValue(row.Firmware) + "', " +
+                        "'" + EscapeSqlValue(row.Lifecycle) + "', " +
+                        "'" + EscapeSqlValue(row.Description) + "', " +
+                        "'" + EscapeSqlValue(row.Url) + "')";
+                    database.Execute(sql);
+                }
+
+                database.Close();
+            }
+            finally
+            {
+                if (databaseCom != null && Marshal.IsComObject(databaseCom))
+                {
+                    Marshal.FinalReleaseComObject(databaseCom);
+                }
+
+                if (accessAppCom != null)
+                {
+                    try
+                    {
+                        ((dynamic)accessAppCom).CloseCurrentDatabase();
+                    }
+                    catch
+                    {
+                    }
+
+                    try
+                    {
+                        ((dynamic)accessAppCom).Quit();
+                    }
+                    catch
+                    {
+                    }
+
+                    if (Marshal.IsComObject(accessAppCom))
+                    {
+                        Marshal.FinalReleaseComObject(accessAppCom);
+                    }
+                }
+            }
+        }
+
+        private static string WrapAccessIdentifier(string name)
+        {
+            return "[" + Normalize(name).Replace("]", "]]") + "]";
+        }
+
+        private static string SanitizeAccessTableName(string value)
+        {
+            var normalized = Normalize(value);
+            if (string.IsNullOrWhiteSpace(normalized))
+            {
+                return "Table_Unknown";
+            }
+
+            var sanitized = new string(normalized
+                .Select(ch => char.IsLetterOrDigit(ch) || ch == '_' ? ch : '_')
+                .ToArray())
+                .Trim('_');
+
+            if (string.IsNullOrWhiteSpace(sanitized))
+            {
+                sanitized = "Table_Unknown";
+            }
+
+            if (!char.IsLetter(sanitized[0]))
+            {
+                sanitized = "T_" + sanitized;
+            }
+
+            if (sanitized.Length > 64)
+            {
+                sanitized = sanitized.Substring(0, 64);
+            }
+
+            return sanitized;
+        }
+
+        private static string EscapeSqlValue(string value)
+        {
+            return (value ?? string.Empty).Replace("'", "''");
         }
 
         private static string SanitizeFileName(string value)
@@ -658,31 +891,15 @@ namespace Devices_Processor
 
                         if (!hasCachedImage && string.IsNullOrWhiteSpace(value.Image))
                         {
-                            var imageLocator = page.Locator("picture img.fit--contain");
+                            var imageLocator = page.Locator("picture img.fit--contain:visible");
+                            if (imageLocator.CountAsync().GetAwaiter().GetResult() == 0)
+                            {
+                                imageLocator = page.Locator("picture img.fit--contain");
+                            }
+
                             if (imageLocator.CountAsync().GetAwaiter().GetResult() > 0)
                             {
-                                var imageUrl = string.Empty;
-                                var imageCount = imageLocator.CountAsync().GetAwaiter().GetResult();
-                                for (var imageIndex = 0; imageIndex < imageCount; imageIndex++)
-                                {
-                                    var candidate = Normalize(imageLocator.Nth(imageIndex).EvaluateAsync<string>("el => el.currentSrc || el.src || ''").GetAwaiter().GetResult());
-                                    if (string.IsNullOrWhiteSpace(candidate))
-                                    {
-                                        continue;
-                                    }
-
-                                    if (string.IsNullOrWhiteSpace(imageUrl))
-                                    {
-                                        imageUrl = candidate;
-                                    }
-
-                                    if (candidate.IndexOf("/P_", StringComparison.OrdinalIgnoreCase) >= 0)
-                                    {
-                                        imageUrl = candidate;
-                                        break;
-                                    }
-                                }
-
+                                var imageUrl = Normalize(imageLocator.First.GetAttributeAsync("src").GetAwaiter().GetResult());
                                 if (!string.IsNullOrWhiteSpace(imageUrl))
                                 {
                                     Console.WriteLine($"[Meta] {orderNumber} -> downloading image...");
@@ -802,6 +1019,20 @@ namespace Devices_Processor
             public string Image { get; set; }
             public string Lifecycle { get; set; }
             public string Description { get; set; }
+        }
+
+        private sealed class AccessExportRow
+        {
+            public string Timestamp { get; set; }
+            public string Group { get; set; }
+            public string Project { get; set; }
+            public string Device { get; set; }
+            public string DeviceItem { get; set; }
+            public string OrderNumber { get; set; }
+            public string Firmware { get; set; }
+            public string Lifecycle { get; set; }
+            public string Description { get; set; }
+            public string Url { get; set; }
         }
 
         private class GroupInfo
